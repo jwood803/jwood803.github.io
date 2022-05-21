@@ -1,3 +1,8 @@
+---
+layout: page
+title: About Me
+---
+
 # Intro
 
 This blog will be thoughts and insights about what I've learned throughout the Data Science for Statisticians course at NC State.
