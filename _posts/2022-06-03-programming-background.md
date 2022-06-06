@@ -35,4 +35,4 @@ you can start coding with a Chromebook and a book on R.
 plot(ToothGrowth)
 ```
 
-![](../imagesunnamed-chunk-4-1.png)<!-- -->
+![](../images/unnamed-chunk-4-1.png)<!-- -->
