@@ -23,6 +23,8 @@ to find errors as early as possible in the development process.
 
 However, with interpretable languages like R more and more tools are
 becoming available that make it easier to spot similar types of errors.
+R Studio gets better every day so it’s getting better to find errors
+early on in development.
 
 While R isn’t a hard language to learn, in fact, I’d say it’s one of the
 easier ones, getting started with it has become a lot easier. Since
