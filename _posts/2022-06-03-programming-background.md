@@ -2,6 +2,8 @@ Programming Background
 ================
 
 ``` r
+# Working directory is /Users/Blog but for some reason the render function is looking into the _Rmd folder
+
 rmarkdown::render(
     '2022-06-03-programming-background.Rmd', 
     output_format = "github_document",
@@ -25,7 +27,8 @@ becoming available that make it easier to spot similar types of errors.
 While R isn’t a hard language to learn, in fact, I’d say it’s one of the
 easier ones, getting started with it has become a lot easier. Since
 Jupyter and RStudio have come a lot, getting started has become so easy
-you can start coding with a Chromebook and a book on R.
+you can start coding with a Chromebook and a book on
+R.
 
 ## Example R Output
 
@@ -33,4 +36,4 @@ you can start coding with a Chromebook and a book on R.
 plot(ToothGrowth)
 ```
 
-![](../images/unnamed-chunk-4-1.png)<!-- -->
+![](/mnt/batch/tasks/shared/LS_root/mounts/clusters/flowers-pytorch/code/Users/Blog/_posts/2022-06-03-programming-background_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->

@@ -3,10 +3,12 @@ title: "Programming Background"
 ---
 
 ```{r, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, fig.path="../images/")
+knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r, eval=FALSE}
+# Working directory is /Users/Blog but for some reason the render function is looking into the _Rmd folder
+
 rmarkdown::render(
     '2022-06-03-programming-background.Rmd', 
     output_format = "github_document",
@@ -16,7 +18,6 @@ rmarkdown::render(
     )
 )
 ```
-
 
 ## Background
 
