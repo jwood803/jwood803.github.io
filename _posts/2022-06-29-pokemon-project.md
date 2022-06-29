@@ -1,17 +1,6 @@
 Pokemon Project
 ================
 
-``` r
-rmarkdown::render(
-    '2022-06-29-pokemon-project.Rmd', 
-    output_format = "github_document",
-    output_dir = "../_posts",
-    output_options = list(
-      html_preview = FALSE
-    )
-)
-```
-
 ## Project
 
 This project involved using the Pokemon API
@@ -20,7 +9,9 @@ endpoints to get the data. There are several endpoints in the API
 involving from one that can give Pokemon characteristics all the way to
 one that can give details on locations that are in all of the games.
 
-The project page can be found [here]() and the GitHub repo is [here]()
+The project page can be found
+[here](https://jwood803.github.io/pokemonproject/) and the GitHub repo
+is [here](https://github.com/jwood803/pokemonproject)
 
 ### Difficulties
 
