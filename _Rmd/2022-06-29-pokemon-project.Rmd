@@ -6,7 +6,7 @@ title: "Pokemon Project"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r, eval=FALSE}
+```{r, eval=FALSE, echo=FALSE}
 rmarkdown::render(
     '2022-06-29-pokemon-project.Rmd', 
     output_format = "github_document",
