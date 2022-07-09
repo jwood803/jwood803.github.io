@@ -1,0 +1,34 @@
+---
+title: "Project 2"
+---
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, eval=FALSE, echo=FALSE}
+rmarkdown::render(
+    '2022-07-08-project-2.Rmd', 
+    output_format = "github_document",
+    output_dir = "../_posts",
+    output_options = list(
+      html_preview = FALSE
+    )
+)
+```
+
+# Project 2
+
+## Project Details
+
+Project 2 was to analyze and create a few machine learning models against the [online news popularity data](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity). The analysis separated the data into subsets by the "data_channel_is" columns. So, for each of these columns we subsetted the data and ran the analysis against that data. Then, we did this five more times with the other "data_channel_is" columns. For example, one column is "data_channel_is_lifestyle" and it will be 1 with each of these that are about lifestyle. We did the analysis on all data where this is true and then continued to do the same analysis with the other columns.
+
+The project site is [here]() and the repo is [here]().
+
+## Difficult Parts
+
+Perhaps the most difficult part for me was getting the automation correct. It took a few attempts to first make sure I passed in the data channels as a parameter correctly, but also to make sure it was using the parameters to subset the data correctly. I kept trying to use a string to subset the data like it was a column name similar to `news %>% filter("data_channel_is_lifestyle" == 1)` but that kept erroring out. Instead I realized that I can use the bracket notation and pass the string in that was like in `news %>% filter(news["data_channel_is_lifestyle"] == 1)`. Once I got that the automation was pretty much done.
+
+## Take-aways
+
+The main take-away was that I realized how powerful R Markdown can be, especially when you can pass parameters into it. I'll definitely need to keep this in mind if I need to create analysis reports again.
