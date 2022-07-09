@@ -23,7 +23,7 @@ rmarkdown::render(
 
 Project 2 was to analyze and create a few machine learning models against the [online news popularity data](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity). The analysis separated the data into subsets by the "data_channel_is" columns. So, for each of these columns we subsetted the data and ran the analysis against that data. Then, we did this five more times with the other "data_channel_is" columns. For example, one column is "data_channel_is_lifestyle" and it will be 1 with each of these that are about lifestyle. We did the analysis on all data where this is true and then continued to do the same analysis with the other columns.
 
-The project site is [here]() and the repo is [here]().
+The project site is [here](https://jetanley.github.io/Tanley-Wood-Project2/) and the repo is [here](https://github.com/jetanley/Tanley-Wood-Project2).
 
 ## Difficult Parts
 
