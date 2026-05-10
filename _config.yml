@@ -28,7 +28,7 @@ twitter_username: JWood
 github_username:  jwood803
 
 # Build settings
-theme: jekyll-theme-clean-blog
+theme: minima
 plugins:
   - jekyll-feed
 
