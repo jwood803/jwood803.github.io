@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Sunday Link Roundup"
 date: 2013-08-04
 categories: 
@@ -7,7 +8,6 @@ tags:
   - "link-roundup"
   - "links"
 ---
-
 What's a Sunday without some links? Here's a couple of stuff I found interesting this past week.
 
 - [Being a Better Programmer course](http://blog.pluralsight.com/2013/07/31/new-course-learning-to-program-being-a-better-programmer/) ([Scott Allen](http://odetocode.com/) and [Iris Classon](http://www.irisclasson.com/), [PluralSight](http://pluralsight.com/training/)) - A recent course on different ways you can learn to be a better developer. Includes tons of links, books, and different techniques to manage your time for self-education.

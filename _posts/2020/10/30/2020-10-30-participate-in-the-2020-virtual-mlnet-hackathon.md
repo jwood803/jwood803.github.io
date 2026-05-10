@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Participate in the 2020 Virtual ML.NET Hackathon"
 date: 2020-10-30
 categories: 
@@ -8,7 +9,6 @@ categories:
 tags: 
   - "mlnet"
 ---
-
 If you wanted to learn machine learning then join us in the [Virtual ML.NET Hackathon](https://github.com/virtualmlnet/hackathon-2020)! Here you can create or join a project to have fun, learn ML.NET and machine learning, and help contribute to open source.
 
 For anyone not familiar with ML.NET there will be a workshop presented on November 13th to go over the basics of ML.NET.

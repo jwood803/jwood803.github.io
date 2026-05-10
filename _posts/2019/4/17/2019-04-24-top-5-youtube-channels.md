@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Top 5 YouTube Channels"
 date: 2019-04-24
 categories: 
@@ -7,9 +8,8 @@ tags:
   - "top5"
   - "youtube"
   - "learning"
-coverImage: "img.jpg"
+image: '/images/img.jpg'
 ---
-
 YouTube is a great resource to learn new development topics. It is one of my go to places if I want to learn a new topic or even to get into a specific area. However, there are a few channels that I make sure and check out if there are new videos.
 
 <iframe src="//www.youtube.com/embed/Ntno9KHlThQ?wmode=opaque&amp;enablejsapi=1" height="480" width="854" scrolling="no" frameborder="0" allowfullscreen></iframe>

@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Small Introduction to AngularJS"
 date: 2013-09-01
 categories: 
@@ -7,7 +8,6 @@ tags:
   - "angularjs"
   - "javascript"
 ---
-
 I know what you're probably thinking, "Oh, another JavaScript library/framework for me to learn." Well, yes, that's correct. However, I believe this is one worth learning. 
 
 Why this one over the many other ones available to you? AngularJS has a different approach. Instead of providing a library, it's goal is to make HTML dynamic like most modern web sites are instead of being the old, boring static HTML we're all used to.

@@ -1,13 +1,14 @@
----
+﻿---
+layout: post
+featured: true
 title: "How the Machine Learning Process is Like Cooking"
 date: 2021-05-17
 categories: 
   - "machine-learning"
 tags: 
   - "machine-learning"
-coverImage: "Machine+learning+is+like+cooking.png"
+image: '/images/Machine+learning+is+like+cooking.png'
 ---
-
 When creating machine learning models it's important to follow the machine learning process in order to get the best performing model that you can into production and to keep it performing well.
 
 But why cooking? First, I enjoy cooking. But also, it is something we all do. Now, we all don't make five course meals every day or aim to be a Michelin star chef. We do follow a process to make our food, though, even if it may be to just heat it up in the microwave.

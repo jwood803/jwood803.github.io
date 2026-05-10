@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Completing the Microsoft Professional Program for Data Science"
 date: 2018-02-14
 categories: 
@@ -6,9 +7,8 @@ categories:
 tags: 
   - "data-science"
   - "learning"
-coverImage: "pexels-photo-207691.jpeg"
+image: '/images/pexels-photo-207691.jpeg'
 ---
-
 Microsoft has two data related certifications in their [Microsoft Professional Program](https://academy.microsoft.com/en-us/professional-program/) - one for Data Science and another for Big Data. I recently completed the one for data science and want to share my experience to others interested in doing the same.
 
 ## Program Details

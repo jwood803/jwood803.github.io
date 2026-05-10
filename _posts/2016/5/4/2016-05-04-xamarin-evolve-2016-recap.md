@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Xamarin Evolve 2016 Recap"
 date: 2016-05-04
 categories: 
@@ -9,7 +10,6 @@ tags:
   - "evolve"
   - "conference"
 ---
-
 I'm currently writing this at the Orlando airport waiting for my flight to head home back to South Carolina. Normally I couldn't wait to head back home after an event to relax and to just, well, be home. However, I'm a bit sad that I have to leave. I met some awesome folks, both Xamarin employees and other attendees. I have an absolute blast helping to give training for [Xamarin University](https://www.xamarin.com/university). And I got to experience Wizarding World and Jurassic Park at Universal.
 
 I'll split this recap up into two sections, training and the actual conference, since they were two different event. Yet I couldn't imagine a better experience without doing both.

@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Code Katas Can Be Helpful"
 date: 2013-09-13
 categories: 
@@ -11,7 +12,6 @@ tags:
   - "javascript"
   - "ruby"
 ---
-
 After reading a [few](http://simpleprogrammer.com/2013/08/26/dont-code-katas/) [posts](http://irisclasson.com/2013/09/11/stupid-question-238-239-should-i-do-code-katas-and-what-is-a-kata/) in the development community lately about code katas, I felt I should put out my own opinion about the subject. 
 
 At work, a few of us developers decided to take a couple of lunches each week and get together to work on a [code kata](http://codekata.pragprog.com/) that we all decide on prior to the meetings. This was mainly so we can increase our skills in development, but mainly it was a way for us to use a new or not so familiar language for a fairly small coding project.

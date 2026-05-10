@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "What's New in ML.NET Version 1.6"
 date: 2021-07-16
 categories: 
@@ -6,9 +7,8 @@ categories:
 tags: 
   - "mlnet"
   - "mlnet-updates"
-coverImage: "Copy+of+cinema+is+a+matter+of+what's+in+the+frame+and+what's+out+(4).png"
+image: '/images/mlnet-v16-cover.png'
 ---
-
 Another new release of [ML.NET](http://ML.NET) is now out! The [release notes](https://github.com/dotnet/machinelearning/blob/main/docs/release-notes/1.6.0/release-1.6.0.md) for version 1.6 has all the details, but this post will highlight all of the more interesting updates from this version. I'll also include the pull request for each item in case you want to see more details on it or learn how something was implemented.
 
 There were a lot of things added to this release, but they did make a note that there are no breaking changes from everything that was added.

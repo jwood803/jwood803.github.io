@@ -1,4 +1,6 @@
----
+﻿---
+layout: post
+featured: true
 title: "Git Commands I Can't Live Without"
 date: 2017-01-18
 categories: 
@@ -7,9 +9,8 @@ categories:
 tags: 
   - "git"
   - "command-line"
-coverImage: "pexels-photo-177598+(1).jpeg"
+image: '/images/pexels-photo-177598+(1).jpeg'
 ---
-
 [Git](https://git-scm.com/) has definitely become the main version control system developers use lately, and I admit, I got on that bandwagon when I got more into [GitHub](https://github.com/jwood803). I wanted to be more familiar with Git since I was doing more and more with GitHub.
 
 I'll also admit, and I may be dating myself here, my first version control system that I used was [StarTeam](https://en.wikipedia.org/wiki/StarTeam). Never heard of it? I don't blame you. Just look at the interface it had:

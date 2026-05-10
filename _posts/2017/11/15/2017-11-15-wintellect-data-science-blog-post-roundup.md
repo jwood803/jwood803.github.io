@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Wintellect Data Science Blog Post Roundup"
 date: 2017-11-15
 categories: 
@@ -7,9 +8,8 @@ tags:
   - "wintellect"
   - "data-science"
   - "python"
-coverImage: "binary-2926088_1920.jpg"
+image: '/images/binary-2926088_1920.jpg'
 ---
-
 I've been quite busy at my [Wintellect blog](https://www.wintellect.com/author/jwood/) lately. Doing a slight pivot into all sorts of things data science and have been writing about what I've been learning. Here's a roundup of the posts so far.
 
 - [Data Science and the Data Science Process](https://www.wintellect.com/data-science-data-science-process/)

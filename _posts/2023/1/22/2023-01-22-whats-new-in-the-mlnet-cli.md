@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "What's New in the ML.NET CLI"
 date: 2023-01-22
 categories: 
@@ -9,7 +10,6 @@ tags:
   - "mlnet"
   - "mlnet-cli"
 ---
-
 The [ML.NET](http://ML.NET) CLI has gotten some interesting updates. This post will go over the main items that are new.
 
 For a video version of this post, check below.

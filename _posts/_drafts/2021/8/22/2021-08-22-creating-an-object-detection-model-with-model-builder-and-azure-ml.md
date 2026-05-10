@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Creating an Object Detection Model with Model Builder and Azure ML"
 date: 2021-08-22
 categories: 
@@ -9,10 +10,9 @@ tags:
   - "mlnet"
   - "object-detection"
   - "azure-ml"
-coverImage: "dazzle.png"
+image: '/images/dazzle.png'
 draft: true
 ---
-
 Object detection models can be quite useful for providing more information about an image than image classification can do. Not only can it give you multiple items in the image but it can also tell you where in the image that those objects are.
 
 ![Computer vision sample in Simón Bolivar Avenue, Quito - Object detection - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/3/3b/Computer_vision_sample_in_Sim%C3%B3n_Bolivar_Avenue%2C_Quito.jpg) By Comunidad de Software Libre Hackem \[Research Group\] - [https://www.youtube.com/watch?v=ZmMFsL1ahI4](https://www.youtube.com/watch?v=ZmMFsL1ahI4), CC BY-SA 3.0, [https://commons.wikimedia.org/w/index.php?curid=92687514](https://commons.wikimedia.org/w/index.php?curid=92687514)

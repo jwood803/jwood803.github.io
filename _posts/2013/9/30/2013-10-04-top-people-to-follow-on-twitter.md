@@ -1,8 +1,8 @@
----
+﻿---
+layout: post
 title: "Top People I Follow on Twitter"
 date: 2013-10-04
 ---
-
 I love Twitter. I like how it's one of the best ways to share content and thoughts with everyone else. However, following too many people can put too much of a strain on you when checking for updates. I, like I'm sure many others do, have a few people I make sure to read each update I come across. Here's a list of those few I do my best to keep up with.
 
 Note that when I say "people" on Twitter I also mean organizations as well as individuals.

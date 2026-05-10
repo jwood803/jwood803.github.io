@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "On Better Developer Testing"
 date: 2013-04-06
 categories: 
@@ -8,7 +9,6 @@ tags:
   - "development"
   - "testing"
 ---
-
 I read an interesting [post](http://haacked.com/archive/2013/03/04/test-better.aspx) by [Phil Haack](http://haacked.com/) a little while ago on having developers do better testing themselves instead of relying solely on their QA team to test. While it’s definitely a great read in itself, I felt I had to add my opinion to it.
 
 Don’t get me wrong with this, though. I think the more experience and skill a developer has on testing their own code, the more valuable they actually are. Also, it’ll mean their code is that much more reliable and stable upon initial release all the way through to production. No developer wants to find that their code somehow broke in production the morning after it was deployed and spend that whole day fixing it.

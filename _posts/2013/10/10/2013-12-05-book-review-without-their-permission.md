@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Book Review: Without Their Permission"
 date: 2013-12-05
 categories: 
@@ -10,7 +11,6 @@ tags:
   - "entrepreneurship"
   - "business"
 ---
-
 I'll be honest, I've been excited about this book since I heard about it's release a couple of months ago. I consider [Alexis Ohanian](https://twitter.com/alexisohanian) to be a true defender of internet freedom and of all the good things that can come from it. [Without Their Permission](https://www.amazon.com/gp/product/1455520020/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1455520020&linkCode=as2&tag=dotnetmeditat-20&linkId=ebf022f0f2456d477349851aa7e1868f) definitely highlights some of the most recent awesome things that have come from the internet being free where anyone can create a site for their passion.
 
 [![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1455520020&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=dotnetmeditat-20)](https://www.amazon.com/gp/product/1455520020/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1455520020&linkCode={{linkCode}}&tag=dotnetmeditat-20&linkId={{link_id}})![](//ir-na.amazon-adsystem.com/e/ir?t=dotnetmeditat-20&l=am2&o=1&a=1455520020)

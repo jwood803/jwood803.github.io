@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Beginning Ruby for C# Developers"
 date: 2014-01-07
 categories: 
@@ -13,7 +14,6 @@ tags:
   - "languages"
   - "programming"
 ---
-
 Ruby has become quite popular as a programming language over the past few years. Probably mainly due to the popularity of the [Ruby on Rails](http://rubyonrails.org/) framework. Because of its popularity, it makes sense to learn at least the basics of it and what all it can do for you as a developer.
 
 Until I have a better solution for embedding Ruby code and output, I'm just embedding the code and results as Github Markdown for now. Even though it doesn't seem to display properly in the embed, it does when viewing the actual gist on GitHub.

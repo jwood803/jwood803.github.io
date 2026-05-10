@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "What's New in the Model Builder Preview"
 date: 2021-05-10
 categories: 
@@ -6,9 +7,8 @@ categories:
 tags: 
   - "mlnet"
   - "model-builder"
-coverImage: "Copy+of+cinema+is+a+matter+of+what%27s+in+the+frame+and+what%27s+out+%281%29.jpg"
+image: '/images/Copy+of+cinema+is+a+matter+of+what%27s+in+the+frame+and+what%27s+out+%281%29.jpg'
 ---
-
 The ML.NET graphical tool, Model Builder, continues to get better and better for everyone to work with and, most important, for everyone to get into machine learning. Recently, there have been some really good additions to Model Builder that we will go over in this post. We will go through the entire flow for Model Builder and will highlight each of the new items.
 
 If you prefer to see a video of these updates, check the video below.

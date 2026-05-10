@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Consuming the Jamendo API with AngularJS: Services"
 date: 2014-02-25
 categories: 
@@ -13,7 +14,6 @@ tags:
   - "development"
   - "programming"
 ---
-
 It took a little while to get back to this little project. After watching some nice stuff from [NgConf](http://dotnetmeditations.com/blog/2014/1/18/as-a-virtual-attendee-at-ng-conf) the other week, it helped get me excited again for AngularJs. Plus, I was stuck on a problem for quite a while that I'll explain in more detail below that really slowed me down. After a bit of a break I got back to it and was able to figure it out.
 
 ### Services

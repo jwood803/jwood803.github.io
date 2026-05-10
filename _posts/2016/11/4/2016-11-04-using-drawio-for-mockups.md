@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Using Draw.IO for Mockups"
 date: 2016-11-04
 categories: 
@@ -7,7 +8,6 @@ tags:
   - "design"
   - "tools"
 ---
-
 I'm definitely not a designer. However, there are times a developer has to do their best to get a new website out for a client and that means doing the initial design for it.
 
 As I was thinking through this I figured doing wireframe mockups would be best. But what tool to use for it? There are some tools for this, of course. Since I didn't need anything real fancy I decided to give [Draw.io](https://www.draw.io/) a try. Believe it or not, you can do some pretty decent wireframes with it. Here's a quick way to get started with it.

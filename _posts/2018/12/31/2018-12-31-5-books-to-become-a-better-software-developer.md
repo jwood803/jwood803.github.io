@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "5 Books To Become a Better Software Developer"
 date: 2018-12-31
 categories: 
@@ -8,9 +9,8 @@ tags:
   - "video"
   - "top5"
   - "books"
-coverImage: "edited.jpg"
+image: '/images/edited.jpg'
 ---
-
 This video goes over the top five books I found to help me become a better software developer. Hope you will find it useful. If you have a book that has helped you, feel free to put it in the comments.
 
 <iframe src="//www.youtube.com/embed/9kRsUopIhN0?wmode=opaque&amp;enablejsapi=1" height="480" width="640" scrolling="no" frameborder="0" allowfullscreen></iframe>

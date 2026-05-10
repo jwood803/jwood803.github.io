@@ -1,13 +1,13 @@
----
+﻿---
+layout: post
 title: "Summer Webinar Marathon"
 date: 2018-05-19
 categories: 
   - "webinar"
 tags: 
   - "webinar"
-coverImage: "martins-zemlickis-57243-unsplash.jpg"
+image: '/images/martins-zemlickis-57243-unsplash.jpg'
 ---
-
 This summer I've decided to give not one, but four data related webinars for everyone's learning pleasure.
 
 - [Visualizing Data in Power BI](https://www.wintellect.com/webinar/visualizing-data-power-bi/): A brief introduction to how you can visualize your data within Power BI

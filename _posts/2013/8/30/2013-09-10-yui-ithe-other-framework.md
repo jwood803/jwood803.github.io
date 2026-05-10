@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "YUI: The Other JavaScript Framework"
 date: 2013-09-10
 categories: 
@@ -8,7 +9,6 @@ tags:
   - "javascript"
   - "framework"
 ---
-
 When you think of JavaScript frameworks, what pops into your mind? JQuery, KnockoutJS, or EmberJS? Did you know that Yahoo! has one of their own? It's [YUI](http://yuilibrary.com/)  and it's actually not too bad of a framework. 
 
 It's definitely not what you'd think of when creating a new web application. For any kind of DOM manipulation, I'm sure the first thought will be to use jQuery. I wouldn't exactly count out Yahoo!, though. They have some of the top engineers of the country and they released YUI as an [open project](https://github.com/yui/yui3) for anyone to fork and contribute to.

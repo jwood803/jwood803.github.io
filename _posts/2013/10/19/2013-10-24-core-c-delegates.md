@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Core C#: Delegates"
 date: 2013-10-24
 categories: 
@@ -9,7 +10,6 @@ tags:
   - "development"
   - "c"
 ---
-
 Microsoft has made it easier for aspiring developers to easily get started creating something when they came out with the C# language. However, there are definitely some advanced aspects of the language that take quite a bit longer than others to fully grasp. Delegates is one of those types of language features. Hopefully by the end of this article you'll have a deeper understanding of how utilize delegates in your C# code. 
 
 I, myself, had trouble trying to fully understand what the purpose of delegates were. If you were to ask me before what a delegate was, I would just give a small answer indicating that it's similar to a method template. While that's true, it does quite a bit more.

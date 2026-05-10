@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Top 5 Artificial Intelligence Sessions at Build 2018"
 date: 2018-06-29
 categories: 
@@ -9,9 +10,8 @@ tags:
   - "artificial-intelligence"
   - "ai"
   - "machine-learning"
-coverImage: "teemu-paananen-376238-unsplash.jpg"
+image: '/images/teemu-paananen-376238-unsplash.jpg'
 ---
-
 During the same week [PyCon](https://us.pycon.org/2018/) was going on, Microsoft had their annual [Build conference](https://www.microsoft.com/en-us/build). If you're not familiar with this conference this is where Microsoft announces a lot of new things for developers. The main focus of this year's Build was about artificial intelligence.
 
 Also in the same way as PyCon, Microsoft records all of the sessions at Build so we're free to watch them later. With that, I present to you what I think are the top five session at Build that go over artificial intelligence. Why top five instead of top ten like in the [PyCon session post](https://jonwood.co/blog/2018/5/27/top-5-session-at-pycon-2018)? Well, there just wasn't enough to do a top ten. :)

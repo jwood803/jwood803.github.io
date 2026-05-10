@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Book Review: Coders at Work"
 date: 2017-02-06
 categories: 
@@ -6,9 +7,8 @@ categories:
 tags: 
   - "book"
   - "book-review"
-coverImage: "x9ghkhbjiau-jazmin-quaynor.jpg"
+image: '/images/x9ghkhbjiau-jazmin-quaynor.jpg'
 ---
-
 There are quite a lot of interviews with software developers out there. Though, I doubt there are many that feature such an array of accomplished developers as [Coders at Work](http://amzn.to/2ih9hoq) does. In this book, there are quite a few words of wisdom from developers who have been through the tough bugs and the long projects.
 
 [![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1430219483&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=dotnetmeditat-20)](https://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483/ref=as_li_ss_il?ie=UTF8&qid=1482935923&sr=8-1&keywords=coders+at+work&linkCode=li3&tag=dotnetmeditat-20&linkId=faaa1235710f30d5b3785bf238367646)![](https://ir-na.amazon-adsystem.com/e/ir?t=dotnetmeditat-20&l=li3&o=1&a=1430219483)

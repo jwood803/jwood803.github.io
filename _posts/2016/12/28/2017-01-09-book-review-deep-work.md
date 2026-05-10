@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Book Review: Deep Work"
 date: 2017-01-09
 categories: 
@@ -8,9 +9,8 @@ tags:
   - "book-review"
   - "work"
   - "career-development"
-coverImage: "x9ghkhbjiau-jazmin-quaynor.jpg"
+image: '/images/x9ghkhbjiau-jazmin-quaynor.jpg'
 ---
-
 Soon after I was about to finish [So Good They Can't Ignore You](https://dotnetmeditations.com/blog/2016/12/13/book-review-so-good-they-cant-ignore-you), I stumbled upon a [post](http://thoughtcatalog.com/ryan-holiday/2016/12/if-you-only-read-a-few-books-in-2017-read-these/) by [Ryan Holiday](http://ryanholiday.net/) (another author I frequently follow), and it mentioned another book by [Cal Newport](http://calnewport.com/) - [Deep Work](http://amzn.to/2iAaW8m). I thought a second and realized, "I think I have a book by that name." I go up to my library and, sure enough, there it is on my shelf. So when I finsihed the current book I was reading I picked this one up. I expected to receive similar benefits as I did in his previous book that I just finished and, sure enough, I got some good insights and advice from it as well.
 
 [![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1455586692&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=dotnetmeditat-20)](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/ref=as_li_ss_il?ref_=nav_custrec_signin&&linkCode=li3&tag=dotnetmeditat-20&linkId=b85992095f1ccdf33bb6944bf51c326b)![](https://ir-na.amazon-adsystem.com/e/ir?t=dotnetmeditat-20&l=li3&o=1&a=1455586692)

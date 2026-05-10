@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Why F# for the Enterprise"
 date: 2014-06-21
 categories: 
@@ -9,7 +10,6 @@ tags:
   - "functional"
   - "enterprise"
 ---
-
 I have gotten bit by the F# bug lately. After helping to release the [F# portion of Exercism](http://dotnetmeditations.com/blog/2014/6/9/exercism-f-track-now-available) I've started to enjoy more and more of what F# has to offer. Of course, F# is a sort of "hybrid" language where you _can_ do object oriented and procedural programming if you make it that way, but out of the box it's trying to get you to go more functional.
 
 Several folks have [posted](http://sergeytihon.wordpress.com/2013/03/24/why-f-by-f-weekly/) as to why learn F# in the first place, but I figured I'd give some reasons why I think F# would be great for scenarios inside enterprise applications. While a few what others have mentioned as good reasons to learn F# in the first place, I believe these would also be the top reasons for enterprise development.

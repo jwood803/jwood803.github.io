@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Book Review: So Good They Can't Ignore You"
 date: 2016-12-29
 categories: 
@@ -6,9 +7,8 @@ categories:
 tags: 
   - "book"
   - "book-review"
-coverImage: "uuw4psob388-david-siglin.jpg"
+image: '/images/uuw4psob388-david-siglin.jpg'
 ---
-
 I've always known books can have a profound impact on your life. [So Good They Can't Ignore You](https://www.amazon.com/gp/product/1455509124/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1455509124&linkCode=as2&tag=dotnetmeditat-20&linkId=72107aebc049855b9ff938c74512822c) just may be one of those books for you. I believe it will be for me. Though, it's not one of those books where you gain so much after just reading it. This book gives you a bit of a guide on how you can be so good at your career, that you can make it become the dream job you often hear about people going after.
 
 [![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1455509124&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=dotnetmeditat-20)](https://www.amazon.com/gp/product/1455509124/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1455509124&linkCode=as2&tag=dotnetmeditat-20&linkId=b7b145c3ebbacef4d0013df76d5b49f7)![](//ir-na.amazon-adsystem.com/e/ir?t=dotnetmeditat-20&l=am2&o=1&a=1455509124)

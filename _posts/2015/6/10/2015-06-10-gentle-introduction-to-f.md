@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Gentle Introduction to F#"
 date: 2015-06-10
 categories: 
@@ -8,7 +9,6 @@ tags:
   - "talks"
   - "presentation"
 ---
-
 Presentation given at the 2015 [Spark Conference](http://sparkconf.org/) in Charlotte, NC. Slides can be found [here](https://htmlpreview.github.io/?https://github.com/jwood803/IntroToFSharpSlides/blob/master/index.html). Below is the screencast.
 
 <iframe data-preserve-html-node="true" src="https://player.vimeo.com/video/130265748" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen="" allowfullscreen=""></iframe>

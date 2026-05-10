@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "ML.NET End-to-End: Build Model from Database Data"
 date: 2019-03-27
 categories: 
@@ -8,9 +9,8 @@ tags:
   - "mlnet"
   - "machine-learning"
   - "regression"
-coverImage: "img.jpg"
+image: '/images/img.jpg'
 ---
-
 When doing machine learning on your own data instead of data downloaded from the internet, you'll often have it stored on a database. In this post, I'll show how to use an Azure SQL database to write and read data then use that data to build an ML.NET machine learning model. I'll also show how to save the model into an Azure Blob Storage container so other applications can use it.
 
 The code can be found on [GitHub](https://github.com/jwood803/MLNet-EndToEnd/blob/master/WineRegressionModel/Program.cs). For a video going over the code, check below.

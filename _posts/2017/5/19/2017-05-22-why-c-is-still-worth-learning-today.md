@@ -1,4 +1,6 @@
----
+﻿---
+layout: post
+featured: true
 title: "Why C# is Still Worth Learning Today"
 date: 2017-05-22
 categories: 
@@ -7,9 +9,8 @@ categories:
 tags: 
   - "c"
   - "learning"
-coverImage: "tirza-van-dijk-58298.jpg"
+image: '/images/tirza-van-dijk-58298.jpg'
 ---
-
 These days with all the programming rage is JavaScript and related web frameworks or data science with Python or R, C# isn't as popular as it used to be. Of course, that makes sense. Programming languages come and go as languages and compilers are evolving. However, I think C# is still a good language not only to learn but to master.
 
 ### It _Used_ to be Very Popular

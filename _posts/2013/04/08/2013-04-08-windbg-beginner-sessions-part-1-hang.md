@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "WinDBG Beginner Sessions: Part 1 - Hang"
 date: 2013-04-08
 categories: 
@@ -8,7 +9,6 @@ tags:
   - "debugging"
   - "windbg"
 ---
-
 We got through the exhibition [post](/blog/2013/04/07/windbg-beginner-sessions-part-0), but now it’s time to get serious. I figured the quickest way to get going here is to go through [Tess Ferrandez’s](http://blogs.msdn.com/b/tess/) series of debugging [labs](http://blogs.msdn.com/b/tess/archive/2008/02/04/net-debugging-demos-information-and-setup-instructions.aspx). I’ve heard that these are actually some of the best tutorials and hands-on experience you can get with WinDBG, so I’m excited to get started.
 
 Of course, one of the reasons I’ve waited so long to do this is due to the labs having the demo site setup in IIS. I’m definitely not the best at deploying and configuring IIS, so instead here I used IIS Express. This seems to work quite well so I’ll be sticking with that throughout the labs. So let’s get started with [lab 1 – the hang](http://blogs.msdn.com/b/tess/archive/2008/02/04/net-debugging-demos-lab-1-hang.aspx).

@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Book Review: Elon Musk Biography"
 date: 2015-08-14
 categories: 
@@ -8,7 +9,6 @@ tags:
   - "book-review"
   - "biography"
 ---
-
 I've done a few [book reviews](http://dotnetmeditations.com/?category=Book+Review) in the past here, but I admit I've been slacking a bit. Not on the reading, though. I've actually been reading even more. I've been slacking _a lot_ in writing about my thoughts and notes on each of the books. It's time to change that.
 
 [![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0062301233&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=dotnetmeditat-20)](https://www.amazon.com/gp/product/0062301233/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062301233&linkCode={{linkCode}}&tag=dotnetmeditat-20&linkId={{link_id}})![](//ir-na.amazon-adsystem.com/e/ir?t=dotnetmeditat-20&l=am2&o=1&a=0062301233)

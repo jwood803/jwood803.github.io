@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "AI Ethics and Fairness Resources"
 date: 2021-08-25
 categories: 
@@ -6,9 +7,8 @@ categories:
 tags: 
   - "ai"
   - "ethics"
-coverImage: "AI+Ethics+resources.png"
+image: '/images/AI+Ethics+resources.png'
 ---
-
 AI and data ethics and fairness is becoming a very hot topic lately. With computer vision models not being able to see everyone equally to the debacle at Google's AI division, it's something that we all need to look out for when doing any type of work with data.
 
 With that, I'd like to show some resources I found that has been useful when researching this topic. Some are videos that go over how bias can get into data and others are actual research papers that go over how to help mitigate bias.

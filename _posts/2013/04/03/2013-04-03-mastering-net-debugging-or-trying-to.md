@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Mastering .NET Debugging….or Trying To"
 date: 2013-04-03
 categories: 
@@ -8,7 +9,6 @@ tags:
   - "debugging"
   - "training"
 ---
-
 For two days this week I’ve had the privilege of taking another training [course](http://www.wintellect.com//Training/Courses/Mastering-.NET-Debugging/) from [Wintellect](http://www.wintellect.com/) and [John Robbins](http://www.wintellect.com/cs/blogs/jrobbins/default.aspx) (author of a still very relevant [debugging book](http://www.amazon.com/Debugging-Microsoft-NET-2-0-Applications/dp/0735622027/ref=sr_sp-atf_title_1_1?s=books&ie=UTF8&qid=1365215166&sr=1-1&keywords=debugging+applications+.net+2)) was the instructor. Based on the title of this post, the course was on .NET debugging. I thought I’d give my thoughts on this course and my experiences with Wintellect’s training in general.
 
 ## Day 1

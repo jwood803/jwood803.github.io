@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Martial Arts Lessons You Can Apply to Your Software Career"
 date: 2018-01-10
 categories: 
@@ -8,10 +9,9 @@ categories:
 tags: 
   - "learning"
   - "programming"
-coverImage: "buddha-india-mind-prayer-161170.jpeg"
+image: '/images/buddha-india-mind-prayer-161170.jpeg'
 draft: true
 ---
-
 Every since high school I've been in love with the martial arts. The history, culture, and lessons that all of them give to the practitioners. I believe the lessons taught in the martial arts school can be applied to all aspects of life, and that includes your software developer career.
 
 In this post, I'll detail some martial arts lessons and also how they can help your software development career.

@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Wintellect F# Blog Post Collection"
 date: 2015-01-22
 categories: 
@@ -9,7 +10,6 @@ tags:
   - "f"
   - "links"
 ---
-
 I know it seems I've been MIA lately, but the truth is I've actually been blogging quite a bit on F# at my spot in [Wintellect](http://www.wintellect.com/) for a little while. Below is a collection of what's currently out there.
 
 - [10 Reasons to Use F#](http://www.wintellect.com/devcenter/paulballard/10-reasons-to-use-f)

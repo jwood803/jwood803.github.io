@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Best Pluralsight Videos to Help Your Career"
 date: 2017-06-01
 categories: 
@@ -7,9 +8,8 @@ categories:
 tags: 
   - "courses"
   - "learning"
-coverImage: "green-chameleon-21532.jpg"
+image: '/images/green-chameleon-21532.jpg'
 ---
-
 [Pluralsight](https://www.pluralsight.com/) has certainly grown over the years. I remember when it first started and it had only courses that were just .NET based and maybe a few others within the Microsoft stack. Now they cover, not only a wide range of development topics, but a big range of creative, admin, and business topics. With that, several videos about how you can get better at your career and as a developer have come up. Here are my favorite courses that I feel give great, actionable advice on how to get better.
 
 ### [Becoming an Outlier: Reprogramming the Developer Mind by Cory House](https://app.pluralsight.com/library/courses/career-reboot-for-developer-mind/table-of-contents)

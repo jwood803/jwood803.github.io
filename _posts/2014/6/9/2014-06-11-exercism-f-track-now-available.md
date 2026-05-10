@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Exercism F# Track Now Available"
 date: 2014-06-11
 categories: 
@@ -12,7 +13,6 @@ tags:
   - "exercises"
   - "practice"
 ---
-
 ## Wait....F#?
 
 Yep. After attending an interesting talk by [James Dixon](http://jamessdixon.wordpress.com/) on data in F# I got a bit interested in the language. Of course, that's followed by reading articles, watching videos, and playing with it a bit on my own. The past month or so I've been messing around with it and plan on sticking to it for a while.

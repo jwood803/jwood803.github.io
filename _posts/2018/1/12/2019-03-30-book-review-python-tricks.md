@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Book Review: Python Tricks"
 date: 2019-03-30
 categories: 
@@ -8,9 +9,8 @@ tags:
   - "book-review"
   - "book"
   - "python"
-coverImage: "img.jpg"
+image: '/images/img.jpg'
 ---
-
 If you've been around Python for a while, then you're probably familiar with [Dan Bader](https://dbader.org/). He likes to help people up their Python game and share his knoweledge of the language. Because of that, he released his own book, [Python Tricks](https://amzn.to/2NDMeE0).
 
 [![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1775093301&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=dotnetmeditat-20)](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301/ref=as_li_ss_il?ie=UTF8&qid=1515767023&sr=8-1&keywords=python+tricks&linkCode=li3&tag=dotnetmeditat-20&linkId=930e65e2282584f1897a0024def1cee4)![](https://ir-na.amazon-adsystem.com/e/ir?t=dotnetmeditat-20&l=li3&o=1&a=1775093301)

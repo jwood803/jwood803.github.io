@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Bias in Machine Learning"
 date: 2018-02-05
 categories: 
@@ -9,9 +10,8 @@ tags:
   - "statistics"
   - "data-science"
   - "data"
-coverImage: "pexels-photo-356043.jpeg"
+image: '/images/pexels-photo-356043.jpeg'
 ---
-
 You hear a lot about machine learning and how it's transforming industries, but there may be something about these algorithms you may not have heard - its biases.
 
 A bias is favoring one group over the others and these machine learning algorithms are supposed to prevent decisions based on any type of bias a person would have. However, the machine learning models are only as good as the data that you give it. The historical data that we have has a built in bias that we need to address.

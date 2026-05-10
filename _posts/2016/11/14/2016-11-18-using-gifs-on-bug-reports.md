@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Using GIFs on Bug Reports"
 date: 2016-11-18
 categories: 
@@ -7,9 +8,8 @@ categories:
 tags: 
   - "gifs"
   - "testing"
-coverImage: "photo-1470790376778-a9fbc86d70e2.jpeg"
+image: '/images/photo-1470790376778-a9fbc86d70e2.jpeg'
 ---
-
 If you've been developing software for any length of time you've fixed a bug or two that someone has reported. Whether for a customer or a user within your organization, sometime's words of how something is fixed or how to duplicate an issue may not be enough.
 
 Using screenshots is great to show if something is working, especially if it is something easily to show like a UI element working. However, to show that a series of steps is working with the end showing that the fix is there, I believe GIFs are a great way to include in your bug reports after a fix has been implemented.

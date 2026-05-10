@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "My Deliberate Practice Plan to Become a Better Programmer"
 date: 2017-01-02
 categories: 
@@ -8,9 +9,8 @@ tags:
   - "development"
   - "career-development"
   - "practice"
-coverImage: "the-strategy-win-champion-the-championship.jpg"
+image: '/images/the-strategy-win-champion-the-championship.jpg'
 ---
-
 In the [previous post](https://dotnetmeditations.com/blog/2016/12/13/book-review-so-good-they-cant-ignore-you), I reviewed the book [So Good They Can't Ignore You](http://amzn.to/2iaoMvW). I wanted to take the ideas and advice from there and to create my own plan for deliberate practice as a software developer. Here's what I came up with...
 
 ## Continuous learning

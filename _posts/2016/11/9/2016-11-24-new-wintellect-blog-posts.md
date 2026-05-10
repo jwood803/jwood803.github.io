@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "New Wintellect Blog Posts"
 date: 2016-11-24
 categories: 
@@ -8,9 +9,8 @@ tags:
   - "wintellect"
   - "f"
   - "xamarin"
-coverImage: "pexels-photo-47710.jpeg"
+image: '/images/pexels-photo-47710.jpeg'
 ---
-
 For this Thanksgiving, I thought sharing a lot of my recent Wintellect blog posts. If I may say, there's a lot of good stuff for you to go through while digesting a Thanksgiving meal. Hope you all enjoy!
 
 ## Spectron

@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Wintellect Post Roundup"
 date: 2018-04-26
 categories: 
@@ -6,9 +7,8 @@ categories:
 tags: 
   - "wintellect"
   - "link-roundup"
-coverImage: "guillaume-bourdages-470207-unsplash.jpg"
+image: '/images/guillaume-bourdages-470207-unsplash.jpg'
 ---
-
 I tend to write over at myh [Wintellect blog](https://www.wintellect.com/author/jwood/) for more technical posts and I've done quite a few lately. Here's the latest in what I've posted there:
 
 - [Beginning Statistics for Data Science: Types of Data](https://www.wintellect.com/beginning-statistics-for-data-science-types-of-data/)

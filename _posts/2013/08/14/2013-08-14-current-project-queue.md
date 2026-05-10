@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Current Project Queue"
 date: 2013-08-14
 categories: 
@@ -8,7 +9,6 @@ tags:
   - "learning"
   - "projects"
 ---
-
 Like any developer, (who actually likes doing development, anyway) I tend to have some projects outside of work going. Of course, more often than not, they don't always get completed. Some don't even get started! I'd like to change that. This blog (and hopefully all two of you readers) can help keep me accountable. So here are the projects I currently have an idea on doing and what I plan on learning. Don't worry, I'll release the source for this stuff as they get completed.
 
 - **Web app to use the Jamendo API** - Wanted to play with the API (which helps me learn to consume JSON) for some time now. Plan on creating an ASP.NET MVC web application and use Angular.JS for the two-way data-binding (of course, mess with the testing and IoC within Angular.JS).

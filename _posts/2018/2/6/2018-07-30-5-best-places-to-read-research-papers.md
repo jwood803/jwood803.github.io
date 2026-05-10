@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "5 Best Places to Read Research Papers"
 date: 2018-07-30
 categories: 
@@ -8,9 +9,8 @@ tags:
   - "research-paper"
   - "research"
   - "top5"
-coverImage: "pexels-photo-357514.jpeg"
+image: '/images/pexels-photo-357514.jpeg'
 ---
-
 Since I'm starting to read more and more research papers, I thought I'd give a small rundown on where I'm finding these papers. You can find a lot available for free, and the places below are my favorite ones to go to.
 
 ## [Arxiv](https://arxiv.org/list/cs.AI/recent)

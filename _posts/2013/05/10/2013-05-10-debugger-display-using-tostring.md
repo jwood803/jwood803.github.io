@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Debugger Display using ToString()"
 date: 2013-05-10
 categories: 
@@ -8,7 +9,6 @@ tags:
   - "debugging"
   - "development"
 ---
-
 One of the things as a .NET developer that I tend to do most while debugging is to traverse through objects and their properties to see what values they have. Of course, the Base Class Library has something to help us do this even faster and more efficient – DebuggerDisplay attribute. Let’s say you’re tasked to help an insurance company write an updated application to determine the rate based off certain attributes on the car, such as age and number of collisions. It may look something like the following:
 
 <script src="https://gist.github.com/jwood803/6329778.js?file=CarClass.cs"></script>

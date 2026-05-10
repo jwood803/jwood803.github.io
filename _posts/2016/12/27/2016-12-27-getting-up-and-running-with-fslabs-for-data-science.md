@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Getting Up and Running with FsLab for Data Science"
 date: 2016-12-27
 categories: 
@@ -9,9 +10,8 @@ tags:
   - "data-science"
   - "fslabs"
   - "fsadvent"
-coverImage: "photo-1446776858070-70c3d5ed6758.jpeg"
+image: '/images/photo-1446776858070-70c3d5ed6758.jpeg'
 ---
-
 [FSAdvent](https://sergeytihon.wordpress.com/2016/10/23/f-advent-calendar-in-english-2016/) time is back this year! I'm going to use this post to start a new work in progress series on using F# for Dara science. This series will mainly consist of using [FsLab](https://fslab.org/) to manipulate and visualize data.
 
 ## Setting Up Your Environment

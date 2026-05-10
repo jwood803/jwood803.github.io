@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Random Link Roundup"
 date: 2013-08-14
 categories: 
@@ -7,7 +8,6 @@ tags:
   - "link-roundup"
   - "links"
 ---
-
 Apparently, every Sunday seems to be a bit too much of a time constraint to get these links out. Instead, I'll just randomly send some I think are worth reading.
 
 - [Building Apps in the 4.5.1 Preview in VS 2012](http://blogs.msdn.com/b/dotnet/archive/2013/08/08/building-apps-with-the-net-framework-4-5-1-preview-in-visual-studio-2012.aspx) (Microsoft .NET Team) - No need to get VS2013 Preview to build apps in the .NET 4.5.1 framework.

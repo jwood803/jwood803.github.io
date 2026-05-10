@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "You Are Good Enough"
 date: 2013-08-26
 categories: 
@@ -9,7 +10,6 @@ tags:
   - "advice"
   - "career-development"
 ---
-
 "I don't think I'm a good developer." 
 
 I think a lot of developers out there think this or something similar at one point in their career. Mainly during the first few years when they started out. Maybe they just started their first job or even thinking of moving to a second job.

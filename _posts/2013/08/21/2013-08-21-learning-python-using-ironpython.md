@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Learning Python Using IronPython"
 date: 2013-08-21
 categories: 
@@ -8,7 +9,6 @@ tags:
   - "iron-python"
   - "pythin"
 ---
-
 Not too long ago when browsing the [Coursera](https://www.coursera.org/) courses I found an interesting [one](https://www.coursera.org/#course/programming1) about learning to program using the Python programming language. Once I saw this I jumped right on it and installed [IronPython](http://ironpython.net/), a .NET library that lets you use Python to interact with .NET applications. Unfortunately, I never really finished all the assignments. I got a bit stuck with converting a .NET List object to a Python List object. I believe I finally got the program to actually do the conversion, but my test would still fail for some reason (any insights on this would be awesome).
 
 The code for IronPython that really does the work in my project is in the PythonEngine class.

@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Book Review: Masters of Doom"
 date: 2013-11-05
 categories: 
@@ -8,7 +9,6 @@ tags:
   - "book-review"
   - "nonfiction"
 ---
-
 If you were like me and you grew up in the 90s and played any sort of video games then I'm sure you've played Wolfenstein 3D or Doom. Though, regardless if you were into gaming, these games probably marked the beginning of an era in computing in general.
 
 I've heard about this book when I just happened to find it on [Amazon](https://www.amazon.com/gp/product/0812972155/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812972155&linkCode=as2&tag=dotnetmeditat-20&linkId=2328a3fb6cc9fac59f2547f55efd09aa), but what wanted me to read it was that it is apparently the book that helped Alexis Ohanian [want to start a company](http://alexisohanian.com/the-book-that-inspired-the-birth-of-reddit) so it actually helped make reddit a reality.  After finding that out I thought I just had to read this book.

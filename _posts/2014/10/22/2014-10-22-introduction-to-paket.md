@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Introduction to Paket"
 date: 2014-10-22
 categories: 
@@ -11,7 +12,6 @@ tags:
   - "tools"
   - "introduction"
 ---
-
 [Paket](http://fsprojects.github.io/Paket/) has been quite the talk lately in the .NET community, and for very good reason. It is essentially another way to manage dependencies in your .NET projects.
 
 #### But why replace NuGet?

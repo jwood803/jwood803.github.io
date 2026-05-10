@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Why I'm Reading Research Papers"
 date: 2017-01-06
 categories: 
@@ -8,9 +9,8 @@ tags:
   - "research-paper"
   - "deliberate-practice"
   - "career-development"
-coverImage: "i_lgq8jzfge-joao-silas.jpg"
+image: '/images/i_lgq8jzfge-joao-silas.jpg'
 ---
-
 In my recent post on [doing deliberate practice to become a better developer](https://dotnetmeditations.com/blog/2016/12/21/my-deliberate-practice-plan-to-become-a-better-programmer) I mentioned that I was going to spend some time to read and understand some research papers. This may seem a like an odd thing to do in order to become better at my craft, but I figured a little experimentation couldn't hurt. At the worst, I'll have a few research papers read and understood. Perhaps I'll even meet one of the co-authors and have something to engage in discussion with. However, I believe I may get a bit more out of it than just that.
 
 ## Understand Latest Research

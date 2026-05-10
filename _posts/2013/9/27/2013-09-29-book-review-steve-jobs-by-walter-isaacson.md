@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Book Review: Steve Jobs by Walter Isaacson"
 date: 2013-09-29
 categories: 
@@ -10,7 +11,6 @@ tags:
   - "apple"
   - "biography"
 ---
-
 I'm sure I'm a bit late [reading this](https://www.amazon.com/gp/product/1501127624/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1501127624&linkCode=as2&tag=dotnetmeditat-20&linkId=a0e2a8200dbb5b7a2ce74b879b3dd26e) and I'll admit I didn't know hardly a thing about Steve Jobs before coming into this book. The only reason I decided to give it a shot was that it was so well recommended by the tech community online, especially after the Ashton Kutcher [movie](http://www.imdb.com/title/tt2357129/) went out in theaters. "Why not?", I figured. "I like biographies and it'll give me some more background of the man himself as well as to how he ran Apple." So I went straight to my library to get a copy.
 
 It was definitely a great read. It felt more like a novel than just a biography which makes it an easy read and helps it get read that much faster. It still took a couple of weeks to get through it, though I believe I'm a bit of a slower reader than many as I think it helps understand more of what I'm reading.

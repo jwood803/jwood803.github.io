@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Using PowerShell to Help Debug Third Party Dependencies"
 date: 2013-07-25
 categories: 
@@ -7,7 +8,6 @@ tags:
   - "debugging"
   - "powershell"
 ---
-
 I hate when an application has a third party dependency (web service, url, ftp, etc.) mainly because it’s hard to test or even see what data you’re getting back. However, this is one awesome reason to love PowerShell. PowerShell can be used to make those calls manually so you can see what comes back and, if needed, use that data further while doing tests. For example, you have a call that gives XML has a response and use PowerShell to traverse the response using the new Invoke-WebRequest cmdlet in PowerShell v3. I’ll use the MSDN blog RSS feed as a small example here.
 
 <script src="https://gist.github.com/jwood803/6329806.js?file=ThirdPartyCall.ps1"></script>

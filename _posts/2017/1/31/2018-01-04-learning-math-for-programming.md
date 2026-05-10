@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Learning Math for Programming"
 date: 2018-01-04
 categories: 
@@ -8,9 +9,8 @@ tags:
   - "math"
   - "programming"
   - "learning"
-coverImage: "classroom-1209820_1920.jpg"
+image: '/images/classroom-1209820_1920.jpg'
 ---
-
 When I went to college I _had_ to take math. My degree is actually in Math and Computer Science. Why the math part, you ask? Well, the folks at the school figured that the math will help with a lot of the logic that comes with programming.
 
 Of course, there's also that age old question when you first start learning programming...is there a lot of math involved? The answer is it depends. If you're planning to get a doctorate and do a lot of research, then you'll most likely use a lot of it. However, if you're just working for a company, then chances are you won't need hardly any math\*. If you're learning data science then some math is essential in order to gain insights from data or to understand machine learning algorithms.

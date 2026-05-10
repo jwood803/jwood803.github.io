@@ -1,13 +1,13 @@
----
+﻿---
+layout: post
 title: "How to Build the ML.NET Repository"
 date: 2021-05-03
 categories: 
   - "mlnet"
 tags: 
   - "mlnet"
-coverImage: "Copy+of+cinema+is+a+matter+of+what's+in+the+frame+and+what's+out+(2)+(1).png"
+image: '/images/mlnet-repository-cover.png'
 ---
-
 Have you wanted to contribute a bug fix or a new feature to the ML.NET repository? The first step is to pull down the repository from GitHub and get it built successfully so you can start making changes.
 
 The ML.NET repository has great documentation. Part of it is how to build it locally from this doc. In this post, we'll go over the steps to do this so you can do the same and get started making changes to the ML.NET repository.

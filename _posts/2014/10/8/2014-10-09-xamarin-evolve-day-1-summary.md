@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Xamarin Evolve - Day 1 Summary"
 date: 2014-10-09
 categories: 
@@ -8,7 +9,6 @@ tags:
   - "conference"
   - "xamarin"
 ---
-
 Considering this is my first time going to an actual conference, especially one at this size, I believe I could be easily impressed by anything done at [Xamarin Evolve](https://evolve.xamarin.com/). And indeed, I was impressed! From all the the quality of the presentations to just how well this event is being run, this is definitely an event I'll remember and will want to come back to next year.
 
 I admit, I haven't done much with Xamarin and their tools other than getting excited over this conference and some small playing around with [Xamarin Studio](https://xamarin.com/studio). After this first day, though, I'm excited to play around with it a lot more and utilize it for mobile apps.

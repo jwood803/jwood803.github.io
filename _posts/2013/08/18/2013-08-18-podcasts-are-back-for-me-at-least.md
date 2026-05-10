@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Podcasts Are Back...For Me, At Least"
 date: 2013-08-18
 categories: 
@@ -6,7 +7,6 @@ categories:
 tags: 
   - "podcast"
 ---
-
 I still remember back at around 2006 or so while still getting over the breakup of the best television network ever created, [TechTV](http://en.wikipedia.org/wiki/TechTV), I find out about this fairly new thing call podcasts. This was big back then, especially since the people I loved watching on TechTV came together for their own podcast, [This Week in Tech](http://twit.tv/) (TWiT). I believe this is still one of the most popular podcasts still around. While I think the TWiT network has some of the best podcast shows out there I have a few others that I get excited to see to have new episodes.
 
 - [Hanselminutes](http://www.hanselminutes.com/) – [Scott Hanselman](http://www.hanselman.com/) is one of _the_ guys to follow if you’re doing any kind of development using the Microsoft technology stack and his podcast is just as good. Usually Scott has a guest on to talk about a certain topic and it’s always informative.

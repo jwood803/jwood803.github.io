@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Clustering in ML.NET"
 date: 2019-03-09
 categories: 
@@ -7,9 +8,8 @@ tags:
   - "mlnet"
   - "machine-learning"
   - "clustering"
-coverImage: "img.jpg"
+image: '/images/img.jpg'
 ---
-
 Clustering is a well known type of unsupervised machine learning algorithm. It is unsupervised since there isn't usually a known label in the data to help the algorithm know how to train on a known value. Instead of training on the data point to see a pattern in how it got a label value, an unsupervised algorithm will find patterns among each of the data points themselves. In this post, I'll go over how to use the clustering trainer in ML.NET.
 
 This example will be using ML.NET version 0.11. Sample code is on [GitHub](https://github.com/jwood803/MLNetExamples/tree/master/MLNetExamples/SeedClustering).

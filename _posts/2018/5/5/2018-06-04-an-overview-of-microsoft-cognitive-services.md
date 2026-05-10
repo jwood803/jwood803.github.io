@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "An Overview of Microsoft Cognitive Services"
 date: 2018-06-04
 categories: 
@@ -7,9 +8,8 @@ tags:
   - "cognitive-services"
   - "deep-learning"
   - "artificial-intelligence"
-coverImage: "anatomy-1751201_640.png"
+image: '/images/anatomy-1751201_640.png'
 ---
-
 A big thing around apps these days are that they are much more intelligent than they used to be. And with that users are expecting more and more from apps. Usually, the way to do this is to create machine learning or deep learning models yourself and deploy that within your applications. But now, Microsoft can do the heavy lifting for you with their suite of [Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/).
 
 These services can do everything you need from sentiment analysis on text to face and emotion detection. In this post, we'll go over each service that is provided so you can see what all is available and decide which one is best for your application.

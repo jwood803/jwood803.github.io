@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Perform Linear Regression in Azure Databricks with MLLib"
 date: 2021-04-14
 categories: 
@@ -8,9 +9,8 @@ tags:
   - "azure-databricks"
   - "machine-learning"
   - "mllib"
-coverImage: "dazzle.jpg"
+image: '/images/dazzle.jpg'
 ---
-
 When thinking of performing machine learning, especially in Python, a few frameworks may come to mind such as scikit-learn, Tensorflow, and PyTorch. However, if you're already doing your big data processing in Spark, then it actually comes with its own machine learning framework - [MLLib](https://spark.apache.org/mllib/).
 
 In this post, we'll go over using MLLib to create a regression model within Azure Databricks. The data we'll be using is the [Computer Hardware dataset](https://archive.ics.uci.edu/ml/datasets/Computer+Hardware) from the UCI Machine Learning Repository. The data will be on an Azure Blob storage container, so we'll need to fetch the data from there to work with it.

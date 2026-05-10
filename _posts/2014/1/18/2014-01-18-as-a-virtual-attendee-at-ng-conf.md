@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "As An ng-conf Virtual Attendee..."
 date: 2014-01-18
 categories: 
@@ -11,7 +12,6 @@ tags:
   - "conference"
   - "event"
 ---
-
 This past Thursday and Friday, Google held a public conference for all things AngularJS. I'm sure you've noticed lately that I've been a bit of a fan of it, especially the more I play around with what it all has to offer. 
 
 Luckily, the fine folks who put on the conference decided to stream it as it was going on. Awesome! I got to catch a few of the sessions. Though, it's not the same as actually attending as I couldn't meet all the great people and speakers there, watching the live stream is the next best thing.

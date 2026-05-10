@@ -1,4 +1,5 @@
----
+﻿---
+layout: post
 title: "Top 10 Sessions at PyCon 2018"
 date: 2018-06-26
 categories: 
@@ -8,9 +9,8 @@ tags:
   - "python"
   - "pycon"
   - "topten"
-coverImage: "andrei-stratu-576842-unsplash.jpg"
+image: '/images/andrei-stratu-576842-unsplash.jpg'
 ---
-
 [PyCon](https://us.pycon.org/2018/) has a very nice history of releasing videos of all of their sessions in a very timely manner. Although, it's up to me to actually have time to watch them.
 
 Now that I've gone through several videos I wanted to share the top ten of them that I think will give the most to people who are interested in which sessions they should watch.
