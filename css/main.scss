@@ -1,0 +1,88 @@
+---
+---
+
+/*!------------------------------------------------------------------
+[MAIN STYLESHEET]
+-------------------------------------------------------------------*/
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+:: Template name: Norlin
+:: Norlin is a creative modern theme with a clean design specially created for dark themes lovers. Norlin theme is fully responsive and looks great on mobile devices and has a beautiful and modern design that is best suited for your personal or corporate blog. You can easily customize the theme by changing the accent colors, the arrangement of the widgets, etc.
+
+:: Template Author: Anvod Studio (Artem Sheludko)
+:: Version: 1.6.0
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>
+:: 1-Tools and Libs
+    1.1-Normalize
+    1.2-Reset
+    1.3-Shared
+    1.4-Syntax Highlighting
+    1.5-Grid
+    1.6-Zoom
+    1.7-Animate
+:: 2-Base Styles
+    2.1-Base
+:: 3-Modules
+    3.1-Hero
+    3.2-Scroll Button Top
+    3.3-Header
+    3.4-Search
+    3.5-Pagination
+    3.6-Footer
+    3.7-Social Links
+    3.8-Buttons
+:: 4-Layouts
+    4.1-Home Page
+    4.2-Post
+    4.3-Tags Page
+    4.4-Contact Page
+<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+{% include_relative _0-settings/variables.scss %}
+{% include_relative _0-settings/mixins.scss %}
+{% include_relative _0-settings/helpers.scss %}
+
+/* Font Awesome (v6.7.2) */
+{% include_relative _0-settings/brands.scss %}
+{% include_relative _0-settings/solid.scss %}
+{% include_relative _0-settings/regular.scss %}
+{% include_relative _0-settings/fontawesome.scss %}
+
+/* =======================
+:: 1-Tools and Libs
+======================= */
+{% include_relative _1-tools/normalize.scss %}
+{% include_relative _1-tools/reset.scss %}
+{% include_relative _1-tools/shared.scss %}
+{% include_relative _1-tools/syntax-highlighting.scss %}
+{% include_relative _1-tools/grid.scss %}
+{% include_relative _1-tools/zoom.scss %}
+{% include_relative _1-tools/animate.scss %}
+
+/* =======================
+:: 2-Base Styles
+======================= */
+{% include_relative _2-base/base.scss %}
+
+/* =======================
+:: 3-Modules
+======================= */
+{% include_relative _3-modules/hero.scss %}
+{% include_relative _3-modules/scroll-button-top.scss %}
+{% include_relative _3-modules/header.scss %}
+{% include_relative _3-modules/search.scss %}
+{% include_relative _3-modules/pagination.scss %}
+{% include_relative _3-modules/footer.scss %}
+{% include_relative _3-modules/social-links.scss %}
+{% include_relative _3-modules/buttons.scss %}
+
+/* =======================
+:: 4-Layouts
+======================= */
+{% include_relative _4-layouts/home-page.scss %}
+{% include_relative _4-layouts/post.scss %}
+{% include_relative _4-layouts/tags-page.scss %}
+{% include_relative _4-layouts/contact-page.scss %}
