@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
-baseurl: "https://jonwood.co" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # The subpath of your site, e.g. /blog
+url: "https://jonwood.co" # The base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
@@ -11,6 +11,7 @@ permalink: /:title
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
 
 paginate: 8
 paginate_path: "/page/:num"

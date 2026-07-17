@@ -13,18 +13,18 @@ You're probably already familiar with loading in data for a machine learning pro
 
 Since Parquet is stored in binary format that makes it much easier for machines to read the data. Also, since it is in binary, this makes the file sizes much lower. Compare the two exact same datasets. The Parquet one is noticeably smaller than the CSV. Imagine if it were gigabytes of data. Parquet would be a lot smaller and would reduce the amount of compute and the time needed to parse the data. 
 
-![File Compare](../images/parquet-vs-csv.png)
+![File Compare]({{ '/images/parquet-vs-csv.png' | absolute_url }})
 
 Not only do the files in Parquet format come out smaller, reading the files is a lot faster as well. For example, say that you had a query that got the average of one column. If it was in a row-based format the query would have to touch every row. But in Parquet, it would only touch the one column, so the processing of that query will be much faster.
 
 ## How is Parquet Different?
 As previously mentioned, not only are Parquet files binary instead of plain text, the way it is stored is different than regular CSV files. In CSV files the data is stored in a row-based fashion, where each attribute for a piece of data is in a single row.
 
-![CSV data](../images/csv-data.png)
+![CSV data]({{ '/images/csv-data.png' | absolute_url }})
 
 However, Parquet files are stored by column instead of by row.
 
-![Parquet data](../images/parquet-data.png)
+![Parquet data]({{ '/images/parquet-data.png' | absolute_url }})
 
 # How to Write Parquet Files
 
@@ -93,7 +93,7 @@ From here we can get what the schema from the file looks like just by looking at
 Console.WriteLine(reader.Schema);
 ```
 
-![Parquet Schema](../images/parquet-schema.png)
+![Parquet Schema]({{ '/images/parquet-schema.png' | absolute_url }})
 
 We can now dynamically get the schema with the `reader.Schema.GetDataFields` method. A `DataField` is essentially a column in the file.
 
@@ -149,7 +149,7 @@ For each row group, or a chunk of data that Parquet partitioned and stored insid
 
 With this being the low-level API, there are several options we could put in depending on the Parquet file and how it was created. When using the `ParquetReader.CreateAsync` method there is an overload where you can put in a `ParquetOptions` object. 
 
-![Parquet Options](../images/parquet-options.png)
+![Parquet Options]({{ '/images/parquet-options.png' | absolute_url }})
 
 ## Using the Newer High-Level API
 The high-level API is much easier. In fact, it can be in just one line of code.
