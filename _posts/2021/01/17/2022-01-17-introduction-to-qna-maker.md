@@ -1,6 +1,7 @@
 ﻿---
 layout: post
 title: "Introduction to QnA Maker"
+description: "Turn an FAQ page into a chatbot knowledge base with Microsoft QnA Maker. Note: QnA Maker is retired in favor of Azure AI Language question answering."
 date: 2022-01-17
 categories: 
   - "cognitive-services"

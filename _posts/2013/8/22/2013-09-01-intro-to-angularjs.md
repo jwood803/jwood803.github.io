@@ -18,7 +18,7 @@ Below is a small example for AngularJS mostly showing controllers and some basic
 
 <script src="https://gist.github.com/jwood803/6405598.js?file=Index.html"></script>
 
-At first, you may notice all the _ng-\*_ attributes in the HTML. This is all AngularJS and, as mentioned above, it extends HTML to be more dynamic. The double curly braces ( {{ }} ) tell Angular that it's a two way binding. Inside the braces is the name on the model to use. You can also tell that most of the functions and properties are in the EmployeeController JavaScript file, which we'll take a look at next.
+At first, you may notice all the _ng-\*_ attributes in the HTML. This is all AngularJS and, as mentioned above, it extends HTML to be more dynamic. The double curly braces ( {% raw %}{{ }}{% endraw %} ) tell Angular that it's a two way binding. Inside the braces is the name on the model to use. You can also tell that most of the functions and properties are in the EmployeeController JavaScript file, which we'll take a look at next.
 
 <script src="https://gist.github.com/jwood803/6405598.js?file=EmployeeController.js"></script>
 

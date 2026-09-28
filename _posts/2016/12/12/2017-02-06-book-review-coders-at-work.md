@@ -19,7 +19,7 @@ It was very interesting getting to know the other programmers in this book. Perh
 
 There were quite a few take aways from this book that may be applicable to everyday work. The biggest of these, though, is that most of the people being interviewed, when asking about how they debug a program, still use the very reliable [print statement](http://everything2.com/title/printf%2528%2529%2520debugging). In fact, there's this [MIT open courseware lecture](https://ocw.mit.edu/index.htm) on debugging that just goes over exactly that!
 
-<iframe style="text-align: center" src="https://www.youtube.com/v/DkPsD58nUIE" height="325" width="545" frameborder="0"></iframe>
+<iframe style="text-align: center" src="https://www.youtube.com/embed/DkPsD58nUIE" height="325" width="545" frameborder="0"></iframe>
 
 Here are a few other items of note that I learned while reading this book:
 

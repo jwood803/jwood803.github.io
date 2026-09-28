@@ -2,6 +2,7 @@
 layout: post
 featured: true
 title: "ML.NET Predictions on the Web in F# with the SAFE Stack"
+description: "Build an F# web app with the SAFE Stack and serve ML.NET predictions from it, using F# on both the server and the client."
 date: 2020-12-24
 categories: 
   - "f"

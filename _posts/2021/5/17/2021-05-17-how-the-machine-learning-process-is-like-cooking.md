@@ -2,6 +2,7 @@
 layout: post
 featured: true
 title: "How the Machine Learning Process is Like Cooking"
+description: "How the machine learning process, from data to a deployed model, mirrors cooking a meal, and why following the process leads to better models."
 date: 2021-05-17
 categories: 
   - "machine-learning"

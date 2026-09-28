@@ -1,6 +1,7 @@
 ﻿---
 layout: post
 title: "How to Build the ML.NET Repository"
+description: "Step-by-step guide to cloning and building the ML.NET repository locally so you can start contributing bug fixes and features."
 date: 2021-05-03
 categories: 
   - "mlnet"

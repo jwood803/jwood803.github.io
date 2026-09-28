@@ -1,6 +1,7 @@
 ﻿---
 layout: post
 title: "What's New in the Model Builder Preview"
+description: "A walkthrough of the new features in the ML.NET Model Builder preview, following the full flow from loading data to a trained model."
 date: 2021-05-10
 categories: 
   - "mlnet"

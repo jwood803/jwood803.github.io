@@ -1,6 +1,7 @@
 ﻿---
 layout: post
 title: "What's New in the ML.NET CLI"
+description: "What's new in the ML.NET CLI, including the new platform-specific install names and other updates."
 date: 2023-01-22
 categories: 
   - "mlnet"

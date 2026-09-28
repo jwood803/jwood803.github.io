@@ -1,6 +1,7 @@
 ﻿---
 layout: post
 title: "Participate in the 2020 Virtual ML.NET Hackathon"
+description: "Join the 2020 Virtual ML.NET Hackathon: a free workshop on ML.NET basics, then a week to build or contribute to an open-source ML project."
 date: 2020-10-30
 categories: 
   - "announcement"

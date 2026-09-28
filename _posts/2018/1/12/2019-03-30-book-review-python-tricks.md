@@ -1,6 +1,7 @@
 ﻿---
 layout: post
 title: "Book Review: Python Tricks"
+description: "Review of Dan Bader's Python Tricks, with an example from each of its seven sections, from clean Python patterns to dictionaries and productivity."
 date: 2019-03-30
 categories: 
   - "book-review"

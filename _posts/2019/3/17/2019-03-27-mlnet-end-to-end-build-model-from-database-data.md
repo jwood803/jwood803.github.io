@@ -1,6 +1,7 @@
 ﻿---
 layout: post
 title: "ML.NET End-to-End: Build Model from Database Data"
+description: "Build an ML.NET model end to end: write and read training data in Azure SQL, train the model, and save it to Azure Blob Storage for other apps."
 date: 2019-03-27
 categories: 
   - "machine-learning"

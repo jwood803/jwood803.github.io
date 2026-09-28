@@ -1,6 +1,7 @@
 ﻿---
 layout: post
 title: "Perform Linear Regression in Azure Databricks with MLLib"
+description: "Train and evaluate a linear regression model with Spark MLlib in Azure Databricks, using the UCI Computer Hardware dataset."
 date: 2021-04-14
 categories: 
   - "databricks"

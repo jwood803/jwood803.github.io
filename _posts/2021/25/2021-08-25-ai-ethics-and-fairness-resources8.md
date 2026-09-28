@@ -1,6 +1,7 @@
 ﻿---
 layout: post
 title: "AI Ethics and Fairness Resources"
+description: "Videos and research papers on AI ethics and fairness, covering how bias gets into data and models and how to reduce it."
 date: 2021-08-25
 categories: 
   - "artificial-intelligence"

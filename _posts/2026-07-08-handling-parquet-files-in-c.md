@@ -3,7 +3,7 @@ layout: post
 featured: true
 image: "/images/parquet-post.jpg"
 title: How to Handle Big Data Files in C# with Parquet.NET
-description: ''
+description: "Read and write Parquet files in C# with Parquet.NET, and see why Parquet beats CSV for large datasets. Includes a complete example."
 date: 2026-07-08 22:50 -0400
 ---
 Throughout this tutorial we will use [Parquet.NET](https://github.com/aloneguid/parquet-dotnet) to help us read and write Parquet files. For reading Parquet files, we will use this dataset on sentence similarity. We will also use this structure when writing Parquet files. The full code can be found [here](https://github.com/jwood803/ParquetNetExample).

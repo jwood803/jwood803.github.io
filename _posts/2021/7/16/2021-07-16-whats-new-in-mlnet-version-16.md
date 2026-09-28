@@ -1,6 +1,7 @@
 ﻿---
 layout: post
 title: "What's New in ML.NET Version 1.6"
+description: "Highlights of the ML.NET 1.6 release, with links to the pull requests behind each new feature. No breaking changes."
 date: 2021-07-16
 categories: 
   - "mlnet"

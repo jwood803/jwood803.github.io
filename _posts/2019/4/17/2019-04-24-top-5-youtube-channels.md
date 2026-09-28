@@ -1,6 +1,7 @@
 ﻿---
 layout: post
 title: "Top 5 YouTube Channels"
+description: "Five YouTube channels I check regularly to learn new development topics, starting with Traversy Media."
 date: 2019-04-24
 categories: 
   - "top-five"

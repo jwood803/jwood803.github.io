@@ -1,6 +1,7 @@
 ﻿---
 layout: post
 title: "Clustering in ML.NET"
+description: "How to use k-means clustering in ML.NET to find groups in unlabeled data, with a complete C# example."
 date: 2019-03-09
 categories: 
   - "machine-learning"

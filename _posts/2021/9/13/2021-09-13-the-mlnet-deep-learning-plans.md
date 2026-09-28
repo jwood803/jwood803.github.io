@@ -1,6 +1,7 @@
 ﻿---
 layout: post
 title: "The ML.NET Deep Learning Plans"
+description: "The ML.NET team's plan for deep learning: what's supported today and the roadmap for training neural networks from scratch in ML.NET."
 date: 2021-09-13
 categories: 
   - "mlnet"

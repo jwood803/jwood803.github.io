@@ -1,0 +1,20 @@
+{% comment %}
+  VideoObject structured data for posts that embed a YouTube video.
+  Front matter: youtube_id (required), video_date (YouTube publish date, defaults to the post date),
+  video_duration (ISO 8601, e.g. PT10M30S, optional).
+{% endcomment %}
+{% if page.youtube_id %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": {{ page.title | jsonify }},
+  "description": {{ page.description | default: page.excerpt | strip_html | strip_newlines | truncate: 250 | jsonify }},
+  "thumbnailUrl": "https://i.ytimg.com/vi/{{ page.youtube_id }}/maxresdefault.jpg",
+  "uploadDate": "{{ page.video_date | default: page.date | date_to_xmlschema }}",{% if page.video_duration %}
+  "duration": "{{ page.video_duration }}",{% endif %}
+  "embedUrl": "https://www.youtube.com/embed/{{ page.youtube_id }}",
+  "contentUrl": "https://www.youtube.com/watch?v={{ page.youtube_id }}"
+}
+</script>
+{% endif %}
