@@ -9,6 +9,8 @@ tags:
   - "screencast"
   - "azure-databricks"
 image: '/images/angelika-spanke-523662-unsplash.jpg'
+redirect_from:
+  - /blog/2018/9/14/a-quick-tour-of-azure-databrick
 ---
 I did a [webinar](https://www.wintellect.com/webinar/tour-azure-databricks/) a while back on Azure Databricks. Below is an section of the webinar that goes over how to create an instance of it and shows some of the UI of Databricks. Hope you enjoy!
 

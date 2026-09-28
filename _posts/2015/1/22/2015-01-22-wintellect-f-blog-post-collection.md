@@ -9,6 +9,8 @@ tags:
   - "wintellect"
   - "f"
   - "links"
+redirect_from:
+  - /blog/2015/1/22/wintellect-f-blog-post-collection
 ---
 I know it seems I've been MIA lately, but the truth is I've actually been blogging quite a bit on F# at my spot in [Wintellect](http://www.wintellect.com/) for a little while. Below is a collection of what's currently out there.
 

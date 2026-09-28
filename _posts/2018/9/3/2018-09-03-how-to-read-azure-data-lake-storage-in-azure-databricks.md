@@ -10,6 +10,8 @@ tags:
   - "azure-data-lake"
   - "azure-databricks"
 image: '/images/pawel-czerwinski-758007-unsplash.jpg'
+redirect_from:
+  - /blog/2018/9/3/how-to-read-azure-data-lake-storage-in-azure-databricks
 ---
 When trying to read files in Azure Data Lake storage in Azure Databricks is definitely possible, doing so takes quite a few steps. In this video, I show those steps exactly. Hope this helps make it easier for you to connect from data lake storage to Databricks.
 

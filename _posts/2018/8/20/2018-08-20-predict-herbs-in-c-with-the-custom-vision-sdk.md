@@ -10,6 +10,8 @@ tags:
   - "cognitive-services"
   - "custom-vision"
 image: '/images/david-travis-548920-unsplash.jpg'
+redirect_from:
+  - /blog/2018/8/20/predict-herbs-in-c-with-the-custom-vision-sdk
 ---
 Just published a quick videon to show how easy it is to use the Custom Vision SDK in C# to make predictions with a Custom Vision model.
 

@@ -12,6 +12,8 @@ tags:
   - "machine-learning"
   - "mlnet"
 image: '/images/jeremy-yap-160713-unsplash.jpg'
+redirect_from:
+  - /blog/2018/7/11/create-your-first-machine-learning-pipeline-in-mlnet
 ---
 In trying to do more screencasts as well as blog posts I created a screencast that goes over [this Wintellect post on ML.NET](https://www.wintellect.com/machine-learning-c-introduction-ml-net/) I did recently.
 

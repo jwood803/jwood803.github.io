@@ -8,5 +8,7 @@ tags:
   - "javascript"
   - "talks"
   - "presentation"
+redirect_from:
+  - /blog/2015/6/10/javascript-garbage-collector
 ---
 Talk given at the 2014 Carolina Code Camp in Matthews, NC. The slides can be seen [here](https://htmlpreview.github.io/?https://github.com/jwood803/JavaScriptGCDemystified/blob/master/index.html#/sponsors).

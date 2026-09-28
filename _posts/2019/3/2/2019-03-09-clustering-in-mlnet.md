@@ -10,6 +10,8 @@ tags:
   - "machine-learning"
   - "clustering"
 image: '/images/img.jpg'
+redirect_from:
+  - /blog/2019/3/2/clustering-in-mlnet
 ---
 Clustering is a well known type of unsupervised machine learning algorithm. It is unsupervised since there isn't usually a known label in the data to help the algorithm know how to train on a known value. Instead of training on the data point to see a pattern in how it got a label value, an unsupervised algorithm will find patterns among each of the data points themselves. In this post, I'll go over how to use the clustering trainer in ML.NET.
 

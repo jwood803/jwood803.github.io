@@ -8,6 +8,8 @@ tags:
   - "book"
   - "book-review"
   - "nonfiction"
+redirect_from:
+  - /blog/2013/10/7/book-review-masters-of-doom
 ---
 If you were like me and you grew up in the 90s and played any sort of video games then I'm sure you've played Wolfenstein 3D or Doom. Though, regardless if you were into gaming, these games probably marked the beginning of an era in computing in general.
 

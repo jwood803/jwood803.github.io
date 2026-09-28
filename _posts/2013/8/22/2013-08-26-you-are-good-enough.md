@@ -9,6 +9,8 @@ tags:
   - "career"
   - "advice"
   - "career-development"
+redirect_from:
+  - /blog/2013/8/22/you-are-good-enough
 ---
 "I don't think I'm a good developer." 
 

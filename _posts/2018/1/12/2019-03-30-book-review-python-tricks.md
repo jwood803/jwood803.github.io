@@ -11,6 +11,8 @@ tags:
   - "book"
   - "python"
 image: '/images/img.jpg'
+redirect_from:
+  - /blog/2018/1/12/book-review-python-tricks
 ---
 If you've been around Python for a while, then you're probably familiar with [Dan Bader](https://dbader.org/). He likes to help people up their Python game and share his knoweledge of the language. Because of that, he released his own book, [Python Tricks](https://amzn.to/2NDMeE0).
 

@@ -9,6 +9,8 @@ tags:
   - "data-science"
   - "python"
 image: '/images/binary-2926088_1920.jpg'
+redirect_from:
+  - /blog/2017/11/15/wintellect-data-science-blog-post-roundup
 ---
 I've been quite busy at my [Wintellect blog](https://www.wintellect.com/author/jwood/) lately. Doing a slight pivot into all sorts of things data science and have been writing about what I've been learning. Here's a roundup of the posts so far.
 

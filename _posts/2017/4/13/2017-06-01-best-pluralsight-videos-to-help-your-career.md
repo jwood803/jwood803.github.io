@@ -9,6 +9,8 @@ tags:
   - "courses"
   - "learning"
 image: '/images/green-chameleon-21532.jpg'
+redirect_from:
+  - /blog/2017/4/13/best-pluralsight-videos-to-help-your-career
 ---
 [Pluralsight](https://www.pluralsight.com/) has certainly grown over the years. I remember when it first started and it had only courses that were just .NET based and maybe a few others within the Microsoft stack. Now they cover, not only a wide range of development topics, but a big range of creative, admin, and business topics. With that, several videos about how you can get better at your career and as a developer have come up. Here are my favorite courses that I feel give great, actionable advice on how to get better.
 

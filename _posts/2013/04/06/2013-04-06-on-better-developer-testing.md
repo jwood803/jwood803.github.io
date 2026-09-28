@@ -8,6 +8,8 @@ tags:
   - "-net"
   - "development"
   - "testing"
+redirect_from:
+  - /blog/2013/04/06/on-better-developer-testing
 ---
 I read an interesting [post](http://haacked.com/archive/2013/03/04/test-better.aspx) by [Phil Haack](http://haacked.com/) a little while ago on having developers do better testing themselves instead of relying solely on their QA team to test. While it’s definitely a great read in itself, I felt I had to add my opinion to it.
 

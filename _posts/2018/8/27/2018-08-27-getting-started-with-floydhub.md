@@ -8,6 +8,8 @@ tags:
   - "screencast"
   - "video"
 image: '/images/2018-08-25+17_33_33-Clipboard.png'
+redirect_from:
+  - /blog/2018/8/27/getting-started-with-floydhub
 ---
 Deep learning training, especially if you have image data, can take a long time on a machine with only a CPU. But with advances in cloud computing you can move that training to the cloud on a machine that does have a GPU for relatively cheap cost.
 

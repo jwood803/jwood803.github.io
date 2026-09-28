@@ -10,6 +10,8 @@ tags:
   - "mlnet-updates"
   - "mlnet"
   - "mlnet-cli"
+redirect_from:
+  - /blog/2023/1/22/whats-new-in-the-mlnet-cli
 ---
 The [ML.NET](http://ML.NET) CLI has gotten some interesting updates. This post will go over the main items that are new.
 

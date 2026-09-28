@@ -9,6 +9,8 @@ tags:
   - "xamarin"
   - "conference"
   - "event"
+redirect_from:
+  - /blog/2014/10/11/xamarin-evolve-recap
 ---
 I wanted to get a day two recap out Thursday night like I did the day before with [day one](http://dotnetmeditations.com/blog/2014/10/8/xamarin-evolve-day-1-summary) but, and I'll be honest with you, day two was just so much fun and action packed that as soon as I got back to the room I went straight to bed to try to get enough rest for the final day. So in this post, I'll go over day two and the final day of the conference.
 

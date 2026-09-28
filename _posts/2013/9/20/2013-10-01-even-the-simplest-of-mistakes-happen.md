@@ -6,6 +6,8 @@ categories:
   - "life"
 tags: 
   - "mistakes"
+redirect_from:
+  - /blog/2013/9/20/even-the-simplest-of-mistakes-happen
 ---
 This is a bit different than most posts here, but I've come to just love what [Medium](https://medium.com/) does. If you haven't heard of it, it's basically a medium (pun intended, of course) in which anybody can come in and write articles about whatever they're passionate about or what inspires them. I've definitely found many great reads there. Since it seems like a great place to just get feedback I thought I'd give it a shot myself.
 

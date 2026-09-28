@@ -10,6 +10,8 @@ tags:
   - "git"
   - "command-line"
 image: '/images/pexels-photo-177598+(1).jpeg'
+redirect_from:
+  - /blog/2017/1/15/git-commands-i-cant-live-without
 ---
 [Git](https://git-scm.com/) has definitely become the main version control system developers use lately, and I admit, I got on that bandwagon when I got more into [GitHub](https://github.com/jwood803). I wanted to be more familiar with Git since I was doing more and more with GitHub.
 

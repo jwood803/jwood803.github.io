@@ -9,6 +9,8 @@ tags:
   - "delegates"
   - "development"
   - "c"
+redirect_from:
+  - /blog/2013/10/19/core-c-delegates
 ---
 Microsoft has made it easier for aspiring developers to easily get started creating something when they came out with the C# language. However, there are definitely some advanced aspects of the language that take quite a bit longer than others to fully grasp. Delegates is one of those types of language features. Hopefully by the end of this article you'll have a deeper understanding of how utilize delegates in your C# code. 
 

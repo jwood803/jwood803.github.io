@@ -11,6 +11,8 @@ tags:
   - "f"
   - "tools"
   - "introduction"
+redirect_from:
+  - /blog/2014/10/22/introduction-to-paket
 ---
 [Paket](http://fsprojects.github.io/Paket/) has been quite the talk lately in the .NET community, and for very good reason. It is essentially another way to manage dependencies in your .NET projects.
 

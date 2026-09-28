@@ -8,6 +8,8 @@ categories:
 tags: 
   - "conference"
   - "xamarin"
+redirect_from:
+  - /blog/2014/10/8/xamarin-evolve-day-1-summary
 ---
 Considering this is my first time going to an actual conference, especially one at this size, I believe I could be easily impressed by anything done at [Xamarin Evolve](https://evolve.xamarin.com/). And indeed, I was impressed! From all the the quality of the presentations to just how well this event is being run, this is definitely an event I'll remember and will want to come back to next year.
 

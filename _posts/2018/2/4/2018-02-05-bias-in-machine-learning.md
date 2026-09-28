@@ -11,6 +11,8 @@ tags:
   - "data-science"
   - "data"
 image: '/images/pexels-photo-356043.jpeg'
+redirect_from:
+  - /blog/2018/2/4/bias-in-machine-learning
 ---
 You hear a lot about machine learning and how it's transforming industries, but there may be something about these algorithms you may not have heard - its biases.
 

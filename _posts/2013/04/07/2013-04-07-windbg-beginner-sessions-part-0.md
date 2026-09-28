@@ -8,6 +8,8 @@ tags:
   - "-net"
   - "debugging"
   - "windbg"
+redirect_from:
+  - /blog/2013/04/07/windbg-beginner-sessions-part-0
 ---
 In an earlier [post](/blog/2013/04/03/mastering-net-debugging-or-trying-to) where I mentioned I took a very informative training course from [Wintellect](http://www.wintellect.com/), I thought I’d use this blog to help keep track of what I’ve been studying and to kind of have a bit of a “peer review” of this stuff that I’m trying to learn. Although, before beginning, we still need to set up our environment. Personally, I prefer to have a dark background with a green text, a la the old terminal days. It just seems the easiest on my eyes and easiest to read. Below is a small list of the color changes I made to my base workstation. I leave the prompt command text white so I can differentiate when I set in a command vs. any output from WinDBG.
 

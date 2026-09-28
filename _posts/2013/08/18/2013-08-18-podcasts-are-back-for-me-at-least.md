@@ -6,6 +6,8 @@ categories:
   - "technology"
 tags: 
   - "podcast"
+redirect_from:
+  - /blog/2013/08/18/podcasts-are-back-for-me-at-least
 ---
 I still remember back at around 2006 or so while still getting over the breakup of the best television network ever created, [TechTV](http://en.wikipedia.org/wiki/TechTV), I find out about this fairly new thing call podcasts. This was big back then, especially since the people I loved watching on TechTV came together for their own podcast, [This Week in Tech](http://twit.tv/) (TWiT). I believe this is still one of the most popular podcasts still around. While I think the TWiT network has some of the best podcast shows out there I have a few others that I get excited to see to have new episodes.
 

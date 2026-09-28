@@ -7,6 +7,8 @@ categories:
 tags: 
   - "link-roundup"
   - "links"
+redirect_from:
+  - /blog/2013/08/14/random-link-roundup
 ---
 Apparently, every Sunday seems to be a bit too much of a time constraint to get these links out. Instead, I'll just randomly send some I think are worth reading.
 

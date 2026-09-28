@@ -7,6 +7,8 @@ categories:
 tags: 
   - "angularjs"
   - "javascript"
+redirect_from:
+  - /blog/2013/8/22/intro-to-angularjs
 ---
 I know what you're probably thinking, "Oh, another JavaScript library/framework for me to learn." Well, yes, that's correct. However, I believe this is one worth learning. 
 

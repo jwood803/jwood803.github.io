@@ -13,6 +13,8 @@ tags:
   - "safe-stack"
   - "mlnet"
 image: '/images/jason-dent-3wPJxh-piRw-unsplash.jpg'
+redirect_from:
+  - /blog/2020/12/22/mlnet-predictions-on-the-web-in-f-with-the-safe-stack
 ---
 Building web sites in C# has be something that you could do for quitea while. But, did you know that you can do web sites in F#? Enter the SAFE Stack. An all-in-one framework that allows you to use F# on the server, but also allows you to use F# on the client side. That's right, no more JavaScript for the client side!
 

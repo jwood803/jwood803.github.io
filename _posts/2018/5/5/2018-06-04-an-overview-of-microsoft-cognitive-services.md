@@ -9,6 +9,8 @@ tags:
   - "deep-learning"
   - "artificial-intelligence"
 image: '/images/anatomy-1751201_640.png'
+redirect_from:
+  - /blog/2018/5/5/an-overview-of-microsoft-cognitive-services
 ---
 A big thing around apps these days are that they are much more intelligent than they used to be. And with that users are expecting more and more from apps. Usually, the way to do this is to create machine learning or deep learning models yourself and deploy that within your applications. But now, Microsoft can do the heavy lifting for you with their suite of [Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/).
 

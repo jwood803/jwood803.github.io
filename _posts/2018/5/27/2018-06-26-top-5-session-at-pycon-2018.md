@@ -10,6 +10,8 @@ tags:
   - "pycon"
   - "topten"
 image: '/images/andrei-stratu-576842-unsplash.jpg'
+redirect_from:
+  - /blog/2018/5/27/top-5-session-at-pycon-2018
 ---
 [PyCon](https://us.pycon.org/2018/) has a very nice history of releasing videos of all of their sessions in a very timely manner. Although, it's up to me to actually have time to watch them.
 

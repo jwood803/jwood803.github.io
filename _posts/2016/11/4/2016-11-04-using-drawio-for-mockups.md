@@ -7,6 +7,8 @@ categories:
 tags: 
   - "design"
   - "tools"
+redirect_from:
+  - /blog/2016/11/4/using-drawio-for-mockups
 ---
 I'm definitely not a designer. However, there are times a developer has to do their best to get a new website out for a client and that means doing the initial design for it.
 

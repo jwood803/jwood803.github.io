@@ -8,6 +8,8 @@ tags:
   - "wintellect"
   - "link-roundup"
 image: '/images/guillaume-bourdages-470207-unsplash.jpg'
+redirect_from:
+  - /blog/2018/4/25/wintellect-post-roundup
 ---
 I tend to write over at myh [Wintellect blog](https://www.wintellect.com/author/jwood/) for more technical posts and I've done quite a few lately. Here's the latest in what I've posted there:
 

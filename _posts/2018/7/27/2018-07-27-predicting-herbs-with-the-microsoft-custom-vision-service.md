@@ -3,6 +3,8 @@ layout: post
 title: "Predicting Herbs with the Microsoft Custom Vision Service"
 date: 2018-07-27
 image: '/images/jesse-orrico-60373-unsplash.jpg'
+redirect_from:
+  - /blog/2018/7/27/predicting-herbs-with-the-microsoft-custom-vision-service
 ---
 Another video to show how to use the [Custom Vision Service](https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/) as part of the [Microsoft Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/) to predict what herb is in a photo.
 

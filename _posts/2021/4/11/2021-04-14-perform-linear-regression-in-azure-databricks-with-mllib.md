@@ -11,6 +11,8 @@ tags:
   - "machine-learning"
   - "mllib"
 image: '/images/dazzle.jpg'
+redirect_from:
+  - /blog/2021/4/11/perform-linear-regression-in-azure-databricks-with-mllib
 ---
 When thinking of performing machine learning, especially in Python, a few frameworks may come to mind such as scikit-learn, Tensorflow, and PyTorch. However, if you're already doing your big data processing in Spark, then it actually comes with its own machine learning framework - [MLLib](https://spark.apache.org/mllib/).
 

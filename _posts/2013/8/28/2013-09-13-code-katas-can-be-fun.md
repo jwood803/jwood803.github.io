@@ -11,6 +11,8 @@ tags:
   - "programming"
   - "javascript"
   - "ruby"
+redirect_from:
+  - /blog/2013/8/28/code-katas-can-be-fun
 ---
 After reading a [few](http://simpleprogrammer.com/2013/08/26/dont-code-katas/) [posts](http://irisclasson.com/2013/09/11/stupid-question-238-239-should-i-do-code-katas-and-what-is-a-kata/) in the development community lately about code katas, I felt I should put out my own opinion about the subject. 
 

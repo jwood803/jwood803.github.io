@@ -7,6 +7,8 @@ categories:
 tags: 
   - "link-roundup"
   - "links"
+redirect_from:
+  - /blog/2013/08/04/sunday-link-roundup
 ---
 What's a Sunday without some links? Here's a couple of stuff I found interesting this past week.
 

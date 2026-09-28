@@ -9,6 +9,8 @@ tags:
   - "testing"
   - "user-experience"
   - "users"
+redirect_from:
+  - /blog/2013/08/07/watch-how-your-users-use-your-app
 ---
 If you develop applications at your company and another group there uses it to do the actual business of the company, have you actually seen how they use the software? Seems a bit crazy, right? You developed it, so of course you know how it works! Not quite so. The people who use your applications all day every day at work will find little nuances about it that you never would have dreamed of. They'll take six clicks to get something done when you thought it only would take two.
 

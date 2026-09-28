@@ -9,6 +9,8 @@ categories:
 tags: 
   - "machine-learning"
 image: '/images/Machine+learning+is+like+cooking.png'
+redirect_from:
+  - /blog/2021/5/17/how-the-machine-learning-process-is-like-cooking
 ---
 When creating machine learning models it's important to follow the machine learning process in order to get the best performing model that you can into production and to keep it performing well.
 

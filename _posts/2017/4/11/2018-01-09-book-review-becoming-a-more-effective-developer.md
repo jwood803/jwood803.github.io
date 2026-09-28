@@ -10,6 +10,8 @@ tags:
   - "career-development"
   - "book-review"
 image: '/images/thomas-kvistholt-191153.jpg'
+redirect_from:
+  - /blog/2017/4/11/book-review-becoming-a-more-effective-developer
 ---
 A lot of programming books teach you about a new framework, language, or computer science theory, but very few teach you how to actually be effective at your day job. The book, [The Effective Engineer](http://amzn.to/2uNZvhr) is a great one to learn all the ways in which you can be the best developer you can be.
 

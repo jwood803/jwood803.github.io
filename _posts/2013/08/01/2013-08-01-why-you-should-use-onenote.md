@@ -6,6 +6,8 @@ categories:
   - "off-topic"
 tags: 
   - "onenote"
+redirect_from:
+  - /blog/2013/08/01/why-you-should-use-onenote
 ---
 Very rarely will I push a piece of software that I believe people should use. Of course, what software you do use is quite a personal choice. However, there are pure gems out there that I just can't let it stay unknown for much longer to everyone I believe can benefit from it. [Microsoft OneNote](http://office.microsoft.com/en-us/onenote/) is the one I consider a true gem. What can you do with it, exactly? Well, you can use it to write/draw/screen cap anything you'd like! It's a blank canvas for you to use however you wish. Why would you use it? It basically gives you a virtual notebook and you can organize it how you would like, though it keeps with the traditional notebook organizational hierarchy such as tabs (or sections) and pages. There are even some [templates](http://office.microsoft.com/en-us/onenote-help/apply-a-template-to-a-page-HA102749818.aspx) to help get you started such as to-do lists, travel plans, shopping lists, etc. However, I use it to literally take notes. Whether it's for studying, notes from various readings, or just random thoughts that go through my head.
 

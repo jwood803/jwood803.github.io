@@ -12,6 +12,8 @@ tags:
   - "data"
   - "data-science"
 image: '/images/book-address-book-learning-learn-159751.jpeg'
+redirect_from:
+  - /blog/2018/2/6/research-minute-useful-things-about-machine-learning
 ---
 I've done book reviews in the past, but as I mentioned in my post on [deliberate practice](https://jonwood.co/blog/2016/12/21/my-deliberate-practice-plan-to-become-a-better-programmer), I intended to get into more research papers. I don't have any academic experience in reading research papers, I can't quite be able to reach the very math centric or abstract papers (at least not yet), but there are quite a few that, with some patience, anyone can read and learn from.
 

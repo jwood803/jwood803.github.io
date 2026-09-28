@@ -8,6 +8,8 @@ categories:
 tags: 
   - "mlnet"
 image: '/images/mlnet-repository-cover.png'
+redirect_from:
+  - /blog/2021/4/28/how-to-build-the-mlnet-repository
 ---
 Have you wanted to contribute a bug fix or a new feature to the ML.NET repository? The first step is to pull down the repository from GitHub and get it built successfully so you can start making changes.
 

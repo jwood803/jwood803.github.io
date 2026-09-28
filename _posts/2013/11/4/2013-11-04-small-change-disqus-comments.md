@@ -7,6 +7,8 @@ categories:
 tags: 
   - "announcement"
   - "change"
+redirect_from:
+  - /blog/2013/11/4/small-change-disqus-comments
 ---
 After noticing that more and more blogs and other web content are moving toward using [Disqus](http://disqus.com/) as their medium for comments, I thought it would be best to move mine over to the platform as well.
 

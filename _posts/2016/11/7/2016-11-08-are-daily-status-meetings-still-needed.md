@@ -8,6 +8,8 @@ tags:
   - "agile"
   - "scrum"
   - "meetings"
+redirect_from:
+  - /blog/2016/11/7/are-daily-status-meetings-still-needed
 ---
 I'm sure you're used to this scenario in your career by now: you start a new project and the manager instantly schedules daily standup meetings for everyone on the project to give their status. However, how many times has that meeting gone longer than the supposed no longer than 15 minutes? How many times has the discussion gone very off-topic taking even more of everyone's time? Quite a few times I'm sure.
 

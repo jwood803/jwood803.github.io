@@ -10,6 +10,8 @@ tags:
   - "research"
   - "top5"
 image: '/images/pexels-photo-357514.jpeg'
+redirect_from:
+  - /blog/2018/2/6/5-best-places-to-read-research-papers
 ---
 Since I'm starting to read more and more research papers, I thought I'd give a small rundown on where I'm finding these papers. You can find a lot available for free, and the places below are my favorite ones to go to.
 

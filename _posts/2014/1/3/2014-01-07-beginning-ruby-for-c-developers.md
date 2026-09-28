@@ -13,6 +13,8 @@ tags:
   - "learning"
   - "languages"
   - "programming"
+redirect_from:
+  - /blog/2014/1/3/beginning-ruby-for-c-developers
 ---
 Ruby has become quite popular as a programming language over the past few years. Probably mainly due to the popularity of the [Ruby on Rails](http://rubyonrails.org/) framework. Because of its popularity, it makes sense to learn at least the basics of it and what all it can do for you as a developer.
 

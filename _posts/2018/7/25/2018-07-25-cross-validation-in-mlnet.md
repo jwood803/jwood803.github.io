@@ -9,6 +9,8 @@ tags:
   - "machine-learning"
   - "screencast"
 image: '/images/mike-enerio-87677-unsplash.jpg'
+redirect_from:
+  - /blog/2018/7/25/cross-validation-in-mlnet
 ---
 Just made a very quick video to go over how to perform cross validation to evaluate your models in ML.NET. Hope you enjoy!
 

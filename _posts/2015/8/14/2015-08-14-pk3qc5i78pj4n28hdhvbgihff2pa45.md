@@ -8,6 +8,8 @@ tags:
   - "book"
   - "book-review"
   - "biography"
+redirect_from:
+  - /blog/2015/8/14/pk3qc5i78pj4n28hdhvbgihff2pa45
 ---
 I've done a few [book reviews](http://dotnetmeditations.com/?category=Book+Review) in the past here, but I admit I've been slacking a bit. Not on the reading, though. I've actually been reading even more. I've been slacking _a lot_ in writing about my thoughts and notes on each of the books. It's time to change that.
 

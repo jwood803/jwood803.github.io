@@ -8,6 +8,8 @@ tags:
   - "book"
   - "book-review"
 image: '/images/x9ghkhbjiau-jazmin-quaynor.jpg'
+redirect_from:
+  - /blog/2016/12/12/book-review-coders-at-work
 ---
 There are quite a lot of interviews with software developers out there. Though, I doubt there are many that feature such an array of accomplished developers as [Coders at Work](http://amzn.to/2ih9hoq) does. In this book, there are quite a few words of wisdom from developers who have been through the tough bugs and the long projects.
 

@@ -7,6 +7,8 @@ categories:
 tags: 
   - "webinar"
 image: '/images/martins-zemlickis-57243-unsplash.jpg'
+redirect_from:
+  - /blog/2018/5/4/summer-webinar-marathon
 ---
 This summer I've decided to give not one, but four data related webinars for everyone's learning pleasure.
 

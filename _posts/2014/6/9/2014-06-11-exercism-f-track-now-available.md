@@ -12,6 +12,8 @@ tags:
   - "open-source"
   - "exercises"
   - "practice"
+redirect_from:
+  - /blog/2014/6/9/exercism-f-track-now-available
 ---
 ## Wait....F#?
 

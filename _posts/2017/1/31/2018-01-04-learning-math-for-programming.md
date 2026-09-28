@@ -10,6 +10,8 @@ tags:
   - "programming"
   - "learning"
 image: '/images/classroom-1209820_1920.jpg'
+redirect_from:
+  - /blog/2017/1/31/learning-math-for-programming
 ---
 When I went to college I _had_ to take math. My degree is actually in Math and Computer Science. Why the math part, you ask? Well, the folks at the school figured that the math will help with a lot of the logic that comes with programming.
 

@@ -11,6 +11,8 @@ tags:
   - "cognitive-services"
   - "custom-vision"
 image: '/images/neonbrand-428982-unsplash.jpg'
+redirect_from:
+  - /blog/2018/9/10/custom-vision-using-the-training-sdk-to-train-an-updated-model
 ---
 To continue the journal with the Custom Vision service's C# SDK, I have a video that shows how to use it to programmatically train on new image data to update an image classification model.
 

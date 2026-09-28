@@ -8,6 +8,8 @@ categories:
 tags: 
   - "medium"
   - "writing"
+redirect_from:
+  - /blog/2015/10/30/more-medium-shenanigans
 ---
 [Once again](http://dotnetmeditations.com/blog/2013/9/20/even-the-simplest-of-mistakes-happen) I've been playing around (and definitely reading) with [Medium](https://medium.com/). Honestly, this is probably one of the best mediums for writing, especially how much tied it is to Twitter and Facebook for very easy sharing. I figured I'd write a few articles there to share around that community.
 

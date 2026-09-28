@@ -10,6 +10,8 @@ tags:
   - "deliberate-practice"
   - "career-development"
 image: '/images/i_lgq8jzfge-joao-silas.jpg'
+redirect_from:
+  - /blog/2017/1/3/why-im-reading-research-papers
 ---
 In my recent post on [doing deliberate practice to become a better developer](https://dotnetmeditations.com/blog/2016/12/21/my-deliberate-practice-plan-to-become-a-better-programmer) I mentioned that I was going to spend some time to read and understand some research papers. This may seem a like an odd thing to do in order to become better at my craft, but I figured a little experimentation couldn't hurt. At the worst, I'll have a few research papers read and understood. Perhaps I'll even meet one of the co-authors and have something to engage in discussion with. However, I believe I may get a bit more out of it than just that.
 

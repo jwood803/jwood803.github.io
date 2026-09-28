@@ -8,6 +8,8 @@ tags:
   - "yui"
   - "javascript"
   - "framework"
+redirect_from:
+  - /blog/2013/8/30/yui-ithe-other-framework
 ---
 When you think of JavaScript frameworks, what pops into your mind? JQuery, KnockoutJS, or EmberJS? Did you know that Yahoo! has one of their own? It's [YUI](http://yuilibrary.com/)  and it's actually not too bad of a framework. 
 

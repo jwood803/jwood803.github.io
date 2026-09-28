@@ -8,6 +8,8 @@ tags:
   - "f"
   - "talks"
   - "presentation"
+redirect_from:
+  - /blog/2015/6/10/gentle-introduction-to-f
 ---
 Presentation given at the 2015 [Spark Conference](http://sparkconf.org/) in Charlotte, NC. Slides can be found [here](https://htmlpreview.github.io/?https://github.com/jwood803/IntroToFSharpSlides/blob/master/index.html). Below is the screencast.
 

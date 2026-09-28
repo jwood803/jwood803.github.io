@@ -9,6 +9,8 @@ categories:
   - "podcast"
 tags: 
   - "mlnet"
+redirect_from:
+  - /blog/2020/10/30/participate-in-the-2020-virtual-mlnet-hackathon
 ---
 If you wanted to learn machine learning then join us in the [Virtual ML.NET Hackathon](https://github.com/virtualmlnet/hackathon-2020)! Here you can create or join a project to have fun, learn ML.NET and machine learning, and help contribute to open source.
 

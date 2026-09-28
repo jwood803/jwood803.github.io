@@ -10,6 +10,8 @@ tags:
   - "career-development"
   - "practice"
 image: '/images/the-strategy-win-champion-the-championship.jpg'
+redirect_from:
+  - /blog/2016/12/21/my-deliberate-practice-plan-to-become-a-better-programmer
 ---
 In the [previous post](https://dotnetmeditations.com/blog/2016/12/13/book-review-so-good-they-cant-ignore-you), I reviewed the book [So Good They Can't Ignore You](http://amzn.to/2iaoMvW). I wanted to take the ideas and advice from there and to create my own plan for deliberate practice as a software developer. Here's what I came up with...
 

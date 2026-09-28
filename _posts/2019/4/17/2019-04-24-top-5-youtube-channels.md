@@ -10,6 +10,8 @@ tags:
   - "youtube"
   - "learning"
 image: '/images/img.jpg'
+redirect_from:
+  - /blog/2019/4/17/top-5-youtube-channels
 ---
 YouTube is a great resource to learn new development topics. It is one of my go to places if I want to learn a new topic or even to get into a specific area. However, there are a few channels that I make sure and check out if there are new videos.
 

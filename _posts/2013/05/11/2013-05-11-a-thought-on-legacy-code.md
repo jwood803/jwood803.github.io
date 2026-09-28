@@ -7,6 +7,8 @@ categories:
 tags: 
   - "development"
   - "legacy"
+redirect_from:
+  - /blog/2013/05/11/a-thought-on-legacy-code
 ---
 I’m quite sure that during one’s career as a software developer they may have the pleasure of maintaining legacy code. Of course, I personally define legacy code as a project that has absolutely no tests. Most of the time, though, this may be a fairly old project. If that developer has been in the career at least a couple of years, then one of the first things they may say to themselves about this type of project is how bad the code and/or the design is. I, myself, have also done this quite a few times.
 

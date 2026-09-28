@@ -9,6 +9,8 @@ tags:
   - "deep-learning"
   - "mlnet"
 image: '/images/mlnet-deep-learning-cover.png'
+redirect_from:
+  - /blog/2021/9/13/the-mlnet-deep-learning-plans
 ---
 One of the most requested features for ML.NET is the ability to create neural networks models from scratch to perform deep learning in ML.NET. The ML.NET team has taken that feedback and the feedback from the [customer survey](https://devblogs.microsoft.com/dotnet/ml-net-june-updates-model-builder/#ml-net-survey-results) and has come out with a plan to start implementing this feature.
 

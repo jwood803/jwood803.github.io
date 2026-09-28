@@ -11,6 +11,8 @@ tags:
   - "javascript"
   - "conference"
   - "event"
+redirect_from:
+  - /blog/2014/1/18/as-a-virtual-attendee-at-ng-conf
 ---
 This past Thursday and Friday, Google held a public conference for all things AngularJS. I'm sure you've noticed lately that I've been a bit of a fan of it, especially the more I play around with what it all has to offer. 
 

@@ -8,6 +8,8 @@ tags:
   - "-net"
   - "debugging"
   - "windbg"
+redirect_from:
+  - /blog/2013/04/08/windbg-beginner-sessions-part-1-hang
 ---
 We got through the exhibition [post](/blog/2013/04/07/windbg-beginner-sessions-part-0), but now it’s time to get serious. I figured the quickest way to get going here is to go through [Tess Ferrandez’s](http://blogs.msdn.com/b/tess/) series of debugging [labs](http://blogs.msdn.com/b/tess/archive/2008/02/04/net-debugging-demos-information-and-setup-instructions.aspx). I’ve heard that these are actually some of the best tutorials and hands-on experience you can get with WinDBG, so I’m excited to get started.
 

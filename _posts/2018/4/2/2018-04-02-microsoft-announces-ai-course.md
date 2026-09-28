@@ -11,6 +11,8 @@ tags:
   - "microsoft"
   - "learning"
 image: '/images/jon-tyson-195064-unsplash.jpg'
+redirect_from:
+  - /blog/2018/4/2/microsoft-announces-ai-course
 ---
 Just this morning Microsoft [announced](https://blogs.microsoft.com/ai/microsoft-professional-program-ai/) a new program in conjunction with EdX that has several courses to teach you all things AI.
 

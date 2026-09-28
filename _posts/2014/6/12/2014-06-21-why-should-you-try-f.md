@@ -9,6 +9,8 @@ tags:
   - "net"
   - "functional"
   - "enterprise"
+redirect_from:
+  - /blog/2014/6/12/why-should-you-try-f
 ---
 I have gotten bit by the F# bug lately. After helping to release the [F# portion of Exercism](http://dotnetmeditations.com/blog/2014/6/9/exercism-f-track-now-available) I've started to enjoy more and more of what F# has to offer. Of course, F# is a sort of "hybrid" language where you _can_ do object oriented and procedural programming if you make it that way, but out of the box it's trying to get you to go more functional.
 

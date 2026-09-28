@@ -9,6 +9,8 @@ tags:
   - "screencast"
   - "mlnet"
 image: '/images/david-becker-676857-unsplash.jpg'
+redirect_from:
+  - /blog/2018/10/16/a-look-at-the-new-mlnet-api
 ---
 [ML.NET is changing their API](https://github.com/dotnet/machinelearning/issues/583) and with the release of the new 0.6 version they included part of the API for everyone to play around with. To get everyone started I created a short video to introduce the new API.
 

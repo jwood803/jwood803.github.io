@@ -11,6 +11,8 @@ tags:
   - "ai"
   - "machine-learning"
 image: '/images/teemu-paananen-376238-unsplash.jpg'
+redirect_from:
+  - /blog/2018/5/27/top-5-ai-and-machine-learning-session-at-build-2018
 ---
 During the same week [PyCon](https://us.pycon.org/2018/) was going on, Microsoft had their annual [Build conference](https://www.microsoft.com/en-us/build). If you're not familiar with this conference this is where Microsoft announces a lot of new things for developers. The main focus of this year's Build was about artificial intelligence.
 

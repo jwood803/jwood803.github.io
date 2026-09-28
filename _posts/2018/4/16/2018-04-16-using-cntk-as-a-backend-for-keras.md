@@ -10,6 +10,8 @@ tags:
   - "keras"
   - "deep-learning"
 image: '/images/pexels-photo-326461.jpeg'
+redirect_from:
+  - /blog/2018/4/16/using-cntk-as-a-backend-for-keras
 ---
 I've been learning about [Keras](https://keras.io/) through the [Deep Learning with Python book](https://amzn.to/2IWLC6z) (which I'll be doing a review of), and it can be a bit tricker to get started than just running a single `pip` command to install a package.
 

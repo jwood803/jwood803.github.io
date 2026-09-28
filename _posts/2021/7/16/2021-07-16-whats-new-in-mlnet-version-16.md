@@ -9,6 +9,8 @@ tags:
   - "mlnet"
   - "mlnet-updates"
 image: '/images/mlnet-v16-cover.png'
+redirect_from:
+  - /blog/2021/7/16/whats-new-in-mlnet-version-16
 ---
 Another new release of [ML.NET](http://ML.NET) is now out! The [release notes](https://github.com/dotnet/machinelearning/blob/main/docs/release-notes/1.6.0/release-1.6.0.md) for version 1.6 has all the details, but this post will highlight all of the more interesting updates from this version. I'll also include the pull request for each item in case you want to see more details on it or learn how something was implemented.
 

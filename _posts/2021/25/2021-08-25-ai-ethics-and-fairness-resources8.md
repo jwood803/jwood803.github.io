@@ -9,6 +9,8 @@ tags:
   - "ai"
   - "ethics"
 image: '/images/AI+Ethics+resources.png'
+redirect_from:
+  - /blog/2021/8/25/ai-ethics-and-fairness-resources
 ---
 AI and data ethics and fairness is becoming a very hot topic lately. With computer vision models not being able to see everyone equally to the debacle at Google's AI division, it's something that we all need to look out for when doing any type of work with data.
 

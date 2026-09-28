@@ -9,6 +9,8 @@ tags:
   - "gifs"
   - "testing"
 image: '/images/photo-1470790376778-a9fbc86d70e2.jpeg'
+redirect_from:
+  - /blog/2016/11/14/using-gifs-on-bug-reports
 ---
 If you've been developing software for any length of time you've fixed a bug or two that someone has reported. Whether for a customer or a user within your organization, sometime's words of how something is fixed or how to duplicate an issue may not be enough.
 

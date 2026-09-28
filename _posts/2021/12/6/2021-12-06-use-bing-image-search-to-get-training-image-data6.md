@@ -9,6 +9,8 @@ tags:
   - "bing-image-search"
   - "cognitive-services"
 image: '/images/dazzle.png'
+redirect_from:
+  - /blog/2021/12/6/use-bing-image-search-to-get-training-image-data6
 ---
 When going through the FastAI book, [Deep Learning for Coders](https://amzn.to/3FIWUsw), I noticed that in one of the early chapters they mention using the [Bing Image Search API](https://docs.microsoft.com/en-us/bing/search-apis/bing-image-search/overview) to retrieve images for training data. While they have a nice wrapper for the API, I thought I'd dive into the API as well and use it to build my own way to download training image data.
 

@@ -9,6 +9,8 @@ tags:
   - "debugging"
   - "logging"
   - "tracesource"
+redirect_from:
+  - /blog/2013/08/11/using-tracesource-for-logging
 ---
 How often have you been in a project and you wanted to create a simple log file to log out errors and, if debugging an annoying error, parameter and variable values? I've wanted to do this a few times but there are a handful of references out there on how best to use TraceSource for logging. Of course you have your best resources of [MSDN](http://msdn.microsoft.com/en-us/library/ms228984.aspx) and [StackOverflow](http://stackoverflow.com/questions/4376699/how-to-use-tracesource-across-classes), but I figured a bit more of an understandable example would be most helpful to everyone looking on how to easily implement this to their projects.
 

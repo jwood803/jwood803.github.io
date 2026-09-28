@@ -9,6 +9,8 @@ tags:
   - "speaking"
   - "javascript"
   - "garbage-collector"
+redirect_from:
+  - /blog/2014/3/23/my-first-speaking-engagement-is-official
 ---
 I've often thought about being the one in front of the room during a [code camp](http://en.wikipedia.org/wiki/Code_Camp) or some other speaking event. Though, like most of us, I've always been reluctant to put myself up there, scared that someone will call me out on not knowing what I was talking about or, worse yet, they all walk out on me.
 

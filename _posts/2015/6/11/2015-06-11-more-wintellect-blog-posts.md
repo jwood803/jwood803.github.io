@@ -7,6 +7,8 @@ categories:
 tags: 
   - "links"
   - "wintellect"
+redirect_from:
+  - /blog/2015/6/11/more-wintellect-blog-posts
 ---
 Like [last time](http://dotnetmeditations.com/blog/2015/1/22/wintellect-f-blog-post-collection), I mentioned that I've been blogging more at my Wintellect spot, especially when it comes to F#. Below are a couple of more posts since the last time. There's also a cameo post that mixes F# with Xamarin.
 

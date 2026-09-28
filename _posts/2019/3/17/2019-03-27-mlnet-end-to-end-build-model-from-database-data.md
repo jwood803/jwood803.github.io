@@ -11,6 +11,8 @@ tags:
   - "machine-learning"
   - "regression"
 image: '/images/img.jpg'
+redirect_from:
+  - /blog/2019/3/17/mlnet-end-to-end-build-model-from-database-data
 ---
 When doing machine learning on your own data instead of data downloaded from the internet, you'll often have it stored on a database. In this post, I'll show how to use an Azure SQL database to write and read data then use that data to build an ML.NET machine learning model. I'll also show how to save the model into an Azure Blob Storage container so other applications can use it.
 

@@ -11,6 +11,8 @@ tags:
   - "patterns"
   - "net"
   - "c"
+redirect_from:
+  - /blog/2014/1/20/first-wintellect-blog-post-a-new-series
 ---
 Just recently, I published my first blog post to the [Wintellect](http://www.wintellect.com/) (my awesome new employer) site. May not seem like much, but it's pretty exciting for me.
 

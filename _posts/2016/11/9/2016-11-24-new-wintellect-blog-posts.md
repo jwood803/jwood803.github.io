@@ -10,6 +10,8 @@ tags:
   - "f"
   - "xamarin"
 image: '/images/pexels-photo-47710.jpeg'
+redirect_from:
+  - /blog/2016/11/9/new-wintellect-blog-posts
 ---
 For this Thanksgiving, I thought sharing a lot of my recent Wintellect blog posts. If I may say, there's a lot of good stuff for you to go through while digesting a Thanksgiving meal. Hope you all enjoy!
 

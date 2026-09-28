@@ -9,6 +9,8 @@ tags:
   - "ethics"
   - "privacy"
 image: '/images/joshua-jordan-260400-unsplash.jpg'
+redirect_from:
+  - /blog/2018/4/10/data-anonymization
 ---
 With all the news about the [Cambridge Analytica scandal](https://www.nytimes.com/2018/03/19/technology/facebook-cambridge-analytica-explained.html) that has happened, there's a lot of critical discussions going on about data privacy. With that, I've found a few resources that can help us as data scientists with data anonymation and privacy.
 

@@ -8,6 +8,8 @@ tags:
   - "development"
   - "learning"
   - "projects"
+redirect_from:
+  - /blog/2013/08/14/current-project-queue
 ---
 Like any developer, (who actually likes doing development, anyway) I tend to have some projects outside of work going. Of course, more often than not, they don't always get completed. Some don't even get started! I'd like to change that. This blog (and hopefully all two of you readers) can help keep me accountable. So here are the projects I currently have an idea on doing and what I plan on learning. Don't worry, I'll release the source for this stuff as they get completed.
 

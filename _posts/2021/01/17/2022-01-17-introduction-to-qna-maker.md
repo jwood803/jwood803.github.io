@@ -9,6 +9,8 @@ tags:
   - "cognitive-services"
   - "qna-maker"
 image: '/images/Microsoft+QnA+Maker.png'
+redirect_from:
+  - /blog/2021/01/17/introduction-to-qna-maker
 ---
 Suppose you have a FAQ page that has a lot of data and want to use that as a first line of customer service support for a chat bot on your main page. How can you integrate this with minimal effort? Enter Microsoft Q&A Maker.
 

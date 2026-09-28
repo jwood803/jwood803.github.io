@@ -10,6 +10,8 @@ tags:
   - "work"
   - "career-development"
 image: '/images/x9ghkhbjiau-jazmin-quaynor.jpg'
+redirect_from:
+  - /blog/2016/12/28/book-review-deep-work
 ---
 Soon after I was about to finish [So Good They Can't Ignore You](https://dotnetmeditations.com/blog/2016/12/13/book-review-so-good-they-cant-ignore-you), I stumbled upon a [post](http://thoughtcatalog.com/ryan-holiday/2016/12/if-you-only-read-a-few-books-in-2017-read-these/) by [Ryan Holiday](http://ryanholiday.net/) (another author I frequently follow), and it mentioned another book by [Cal Newport](http://calnewport.com/) - [Deep Work](http://amzn.to/2iAaW8m). I thought a second and realized, "I think I have a book by that name." I go up to my library and, sure enough, there it is on my shelf. So when I finsihed the current book I was reading I picked this one up. I expected to receive similar benefits as I did in his previous book that I just finished and, sure enough, I got some good insights and advice from it as well.
 

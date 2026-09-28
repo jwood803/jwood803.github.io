@@ -10,6 +10,8 @@ tags:
   - "machine-learning"
   - "books"
 image: '/images/img.jpg'
+redirect_from:
+  - /blog/2019/3/31/top-5-machine-learning-books
 ---
 Machine learning is a vast subject and there is a lot to learn. Luckily, there are several books out there that can help us along the way. Below I list what I believe are the top 5 machine learning books that are currently out there.
 

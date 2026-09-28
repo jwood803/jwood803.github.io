@@ -11,6 +11,8 @@ tags:
   - "topten"
   - "practice"
 image: '/images/board-953157_1920.jpg'
+redirect_from:
+  - /blog/2017/2/9/10-sites-where-you-can-get-programming-practice
 ---
 Watching and reading programming tutorials are great! They give a curated view of a concept or new technology that may take hours longer to understand than going at it alone. However, much like math, **programming is not a spectator sport.** You need to practice in order to better understand the programming concept or technology in a real program.
 

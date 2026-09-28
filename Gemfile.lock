@@ -44,6 +44,8 @@ GEM
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-paginate (1.1.0)
+    jekyll-redirect-from (0.16.0)
+      jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
     jekyll-sitemap (1.4.0)
@@ -86,6 +88,7 @@ DEPENDENCIES
   jekyll-compose
   jekyll-feed
   jekyll-paginate
+  jekyll-redirect-from
   jekyll-sitemap
 
 BUNDLED WITH
