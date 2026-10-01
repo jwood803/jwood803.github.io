@@ -36,23 +36,27 @@ As previously mentioned, Parquet stores data by each column. In order to write t
 var schema = new ParquetSchema(
     new DataField<string>("Sentence1"),
     new DataField<string>("Sentence2"),
-    new DataField<double>("Score")
+    new DataField<double?>("Score")
 );
 ```
+
+Note that `Score` is a nullable `double?`. The nullability in the schema needs to match the class you read the file back into later (the `SentenceSimilarity` class below uses `double?`). If they don't match, reading the file fails with an error saying the nullability is incompatible.
 
 With our schema defined, we can create our data that we want to add to our columns. We will add them as arrays.
 
 ```csharp
 var newSen1Data = new[] { "A plane is taking off.", "A man is playing guitar.", "A dog is running in the park." };
 var newSen2Data = new[] { "An airplane is taking off.", "A person is playing music.", "A woman is cooking dinner." };
-var newScoreData = new[] { 0.95, 0.65, 0.10 };
+var newScoreData = new double?[] { 0.95, 0.65, 0.10 };
 ```
 
-Next, we need to create a stream to create our file to write to with `File.OpenWrite` and give it a file name.
+Next, we need to create a stream to create our file to write to with `File.Create` and give it a file name.
 
 ```csharp
-using var writeStream = File.OpenWrite("new_similarity.parquet");
+using var writeStream = File.Create("new_similarity.parquet");
 ```
+
+Use `File.Create` rather than `File.OpenWrite` here. `File.OpenWrite` doesn't clear an existing file, so if you write a smaller file over a larger one, the old bytes are left at the end and the Parquet file can end up corrupted.
 
 Using `ParquetWriter.CreateAsync` we can pass in the schema from earlier and the file stream to create a `ParquetWriter`.
 
@@ -74,7 +78,24 @@ await rowGroupWriter.WriteColumnAsync(new DataColumn((DataField)schema.Fields[1]
 await rowGroupWriter.WriteColumnAsync(new DataColumn((DataField)schema.Fields[2], newScoreData));
 ```
 
-Running this will create a new Parquet file with our new data.
+Running this will create a new Parquet file with our new data. The file is only complete once the writer is disposed, so if you want to read it back in the same program, put the writing code in its own `using` block (or method) first.
+
+## The Easier Way: Writing with the High-Level API
+
+If your data is already in objects, Parquet.NET can write the whole file in one line, the same way the high-level API reads it (covered below).
+
+```csharp
+var newRows = new List<SentenceSimilarity>
+{
+    new() { Sentence1 = "A plane is taking off.", Sentence2 = "An airplane is taking off.", Score = 0.95 },
+    new() { Sentence1 = "A man is playing guitar.", Sentence2 = "A person is playing music.", Score = 0.65 },
+    new() { Sentence1 = "A dog is running in the park.", Sentence2 = "A woman is cooking dinner.", Score = 0.10 },
+};
+
+await ParquetSerializer.SerializeAsync(newRows, "new_similarity.parquet");
+```
+
+The schema comes from the class, so there's no `ParquetSchema` to define. The low-level API is still useful when you need full control, such as writing very large data in chunks.
 
 # How to Read Parquet Files
 Parquet.NET offers two different ways to read Parquet files; using a low-level API that offers more control on how you want to read in the files and an easier high-level API.
