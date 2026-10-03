@@ -6,6 +6,12 @@ image: "/images/no-csproj-header.png"
 description: Build a URL uptime checker in a single C# file with .NET 10 file-based
   apps. No project or solution needed, plus NuGet packages.
 date: 2026-10-03 00:24 -0400
+tags:
+  - "C#"
+  - ".NET"
+  - ".NET-10"
+  - "tools"
+  - "development"
 ---
 When doing any kind of C# work, whether starting a new, big project, or doing a small console application to play around and put together a proof of concept, you always have to create a project for the simplest of apps. Even if you needed a utility script or tool the same ceremony of creating a project was still needed. However, as of .NET 10, that ceremony is no longer needed. Now we have file-based applications, where we only need `cs` files for our code to run using `dotnet run`.
 

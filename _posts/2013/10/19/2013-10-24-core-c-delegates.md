@@ -5,10 +5,10 @@ date: 2013-10-24
 categories: 
   - "development"
 tags: 
-  - "net"
+  - ".NET"
   - "delegates"
   - "development"
-  - "c"
+  - "C#"
 redirect_from:
   - /blog/2013/10/19/core-c-delegates
 ---

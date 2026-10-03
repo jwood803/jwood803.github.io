@@ -9,8 +9,8 @@ tags:
   - "wintellect"
   - "design-patterns"
   - "patterns"
-  - "net"
-  - "c"
+  - ".NET"
+  - "C#"
 redirect_from:
   - /blog/2014/1/20/first-wintellect-blog-post-a-new-series
 ---

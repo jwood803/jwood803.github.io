@@ -6,7 +6,7 @@ categories:
   - "announcement"
   - "learning"
 tags: 
-  - "f"
+  - "F#"
   - "exercism"
   - "project"
   - "open-source"

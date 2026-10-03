@@ -8,7 +8,7 @@ categories:
   - "f"
   - "mlnet"
 tags: 
-  - "f"
+  - "F#"
   - "fsadvent"
   - "safe-stack"
   - "mlnet"

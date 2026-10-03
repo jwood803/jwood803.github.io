@@ -7,7 +7,7 @@ categories:
 tags: 
   - "blogs"
   - "wintellect"
-  - "f"
+  - "F#"
   - "xamarin"
 image: '/images/pexels-photo-47710.jpeg'
 redirect_from:

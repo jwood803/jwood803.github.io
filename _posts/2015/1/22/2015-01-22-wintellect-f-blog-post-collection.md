@@ -7,7 +7,7 @@ categories:
   - "f"
 tags: 
   - "wintellect"
-  - "f"
+  - "F#"
   - "links"
 redirect_from:
   - /blog/2015/1/22/wintellect-f-blog-post-collection

@@ -5,8 +5,8 @@ date: 2014-06-21
 categories: 
   - "development"
 tags: 
-  - "f"
-  - "net"
+  - "F#"
+  - ".NET"
   - "functional"
   - "enterprise"
 redirect_from:

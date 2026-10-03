@@ -7,7 +7,7 @@ categories:
   - "development"
   - "technology"
 tags: 
-  - "c"
+  - "C#"
   - "learning"
 image: '/images/tirza-van-dijk-58298.jpg'
 redirect_from:

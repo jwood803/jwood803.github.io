@@ -5,7 +5,7 @@ date: 2015-06-10
 categories: 
   - "presentation"
 tags: 
-  - "f"
+  - "F#"
   - "talks"
   - "presentation"
 redirect_from:

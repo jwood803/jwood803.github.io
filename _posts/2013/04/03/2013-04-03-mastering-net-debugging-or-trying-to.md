@@ -5,7 +5,7 @@ date: 2013-04-03
 categories: 
   - "debugging"
 tags: 
-  - "-net"
+  - ".NET"
   - "debugging"
   - "training"
 redirect_from:

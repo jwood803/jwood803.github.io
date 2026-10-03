@@ -8,7 +8,7 @@ categories:
   - "development"
 tags: 
   - "paket"
-  - "f"
+  - "F#"
   - "tools"
   - "introduction"
 redirect_from:

@@ -5,7 +5,7 @@ date: 2013-04-06
 categories: 
   - "development"
 tags: 
-  - "-net"
+  - ".NET"
   - "development"
   - "testing"
 redirect_from:

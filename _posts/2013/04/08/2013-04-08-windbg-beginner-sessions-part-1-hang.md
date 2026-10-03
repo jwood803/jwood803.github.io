@@ -5,7 +5,7 @@ date: 2013-04-08
 categories: 
   - "debugging"
 tags: 
-  - "-net"
+  - ".NET"
   - "debugging"
   - "windbg"
 redirect_from:

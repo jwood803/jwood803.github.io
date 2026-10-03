@@ -6,7 +6,7 @@ categories:
   - "f"
   - "data-science"
 tags: 
-  - "f"
+  - "F#"
   - "data-science"
   - "fslabs"
   - "fsadvent"

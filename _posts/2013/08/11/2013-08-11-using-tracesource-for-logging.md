@@ -5,7 +5,7 @@ date: 2013-08-11
 categories: 
   - "debugging"
 tags: 
-  - "-net"
+  - ".NET"
   - "debugging"
   - "logging"
   - "tracesource"
