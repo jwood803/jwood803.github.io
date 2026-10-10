@@ -203,35 +203,35 @@ To use it, in our file-based app file we can include it with the `include` direc
 
 ```diff
 +#:include UrlCheck.cs
-#:package Spectre.Console@0.57.2
-
+ #:package Spectre.Console@0.57.2
+ 
 -using System.Diagnostics;
-using Spectre.Console;
-
-var urls = new[]
-{
-    "https://google.com",
-    "https://httpstat.us/500",
-    "https://github.com"
-};
-
-var table = new Table();
-table.Border(TableBorder.HeavyHead);
-
-table.AddColumn("URL");
-table.AddColumn("Status");
-table.AddColumn("Time");
-table.AddColumn("Result");
-
-using var client = new HttpClient { Timeout = TimeSpan.FromSeconds(2) };
+ using Spectre.Console;
+ 
+ var urls = new[]
+ {
+     "https://google.com",
+     "https://httpstat.us/500",
+     "https://github.com"
+ };
+ 
+ var table = new Table();
+ table.Border(TableBorder.HeavyHead);
+ 
+ table.AddColumn("URL");
+ table.AddColumn("Status");
+ table.AddColumn("Time");
+ table.AddColumn("Result");
+ 
+ using var client = new HttpClient { Timeout = TimeSpan.FromSeconds(2) };
 -var stopwatch = new Stopwatch();
 -string status;
 -bool isOk;
-
-foreach (var url in urls)
-{
+ 
+ foreach (var url in urls)
+ {
 -    stopwatch.Restart();
-
+-
 -    try
 -    {
 -        var response = await client.GetAsync(url);
@@ -243,22 +243,22 @@ foreach (var url in urls)
 -        status = "-";
 -        isOk = false;
 -    }
-
+-
 -    stopwatch.Stop();
-
+-
 +    var (status, elapsedMs, isOk) = await UrlCheck.CheckAsync(client, url);
-
-    table.AddRow(
-    [
-        url,
-        status,
-        elapsedMs.ToString(),
-        isOk ? "[green]✓ OK[/]" : "[red]✗ DOWN[/]"
-    ]);
-}
-
-AnsiConsole.Write(table);
-```
+ 
+     table.AddRow(
+     [
+         url,
+         status,
+         elapsedMs.ToString(),
+         isOk ? "[green]✓ OK[/]" : "[red]✗ DOWN[/]"
+     ]);
+ }
+ 
+ AnsiConsole.Write(table);
+ ```
 
 ## Creating a Web API
 Not only can you create a local file-based app, you can also make a simple Web API with it, and with a few changes. The main thing we need here is a new directive - `sdk`. This can be in a new file alongside the console version - `uptime-api.cs`.
