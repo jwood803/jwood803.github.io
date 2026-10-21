@@ -48,15 +48,13 @@
 
 .image-box {
   position: relative;
-  padding-top: 90%;
-  min-height: 280px;
+  padding-top: 56.25%; // 16:9 to match header/thumbnail images so nothing gets cropped
   border-radius: 16px;
   overflow: hidden;
   box-shadow: 0 5px 10px 0px rgba(0,0,0,.15);
   background-color: $dark;
 
   @media (max-width: $tablet) {
-    padding-top: 65%;
     margin-bottom: 40px;
   }
 }
