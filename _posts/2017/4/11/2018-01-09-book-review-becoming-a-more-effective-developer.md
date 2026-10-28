@@ -1,4 +1,5 @@
 ﻿---
+affiliate: true
 layout: post
 title: "Book Review: Becoming a More Effective Developer"
 date: 2018-01-09

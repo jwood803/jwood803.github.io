@@ -1,4 +1,5 @@
 ﻿---
+affiliate: true
 layout: post
 featured: true
 title: "How the Machine Learning Process is Like Cooking"

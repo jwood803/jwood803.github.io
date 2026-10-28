@@ -1,4 +1,5 @@
 ﻿---
+affiliate: true
 layout: post
 title: "Top 5 Machine Learning Books"
 description: "The five machine learning books I recommend, from Hands-On Machine Learning to Deep Learning with Python, and what each one covers."

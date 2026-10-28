@@ -1,4 +1,5 @@
 ﻿---
+affiliate: true
 layout: post
 title: "Book Review: Steve Jobs by Walter Isaacson"
 date: 2013-09-29

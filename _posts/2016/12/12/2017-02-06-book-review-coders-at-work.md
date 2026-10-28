@@ -1,4 +1,5 @@
 ﻿---
+affiliate: true
 layout: post
 title: "Book Review: Coders at Work"
 date: 2017-02-06

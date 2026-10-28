@@ -1,4 +1,5 @@
 ﻿---
+affiliate: true
 layout: post
 title: "Use Bing Image Search to Get Training Image Data"
 description: "Use the Bing Image Search API to download training images for an image classification model. Note: the Bing Search APIs were retired in 2025."

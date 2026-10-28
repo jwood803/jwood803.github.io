@@ -1,4 +1,5 @@
 ﻿---
+affiliate: true
 layout: post
 title: "Are Daily Status Meetings Still Needed?"
 date: 2016-11-08

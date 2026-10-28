@@ -1,4 +1,5 @@
 ﻿---
+affiliate: true
 layout: post
 title: "Book Review: Masters of Doom"
 date: 2013-11-05

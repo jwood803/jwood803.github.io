@@ -62,6 +62,9 @@ layout: default
   <article class="post animate">
 
     <div class="post__content">
+      {% if page.affiliate %}
+      <p class="note">This post contains affiliate links. If you buy through them, I may earn a small commission at no extra cost to you.</p>
+      {% endif %}
       {{ content }}
     </div>
 

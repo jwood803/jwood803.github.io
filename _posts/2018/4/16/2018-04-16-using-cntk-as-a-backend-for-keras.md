@@ -1,4 +1,5 @@
 ﻿---
+affiliate: true
 layout: post
 title: "Using CNTK as a Backend for Keras"
 date: 2018-04-16

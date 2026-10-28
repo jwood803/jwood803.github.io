@@ -1,4 +1,5 @@
 ﻿---
+affiliate: true
 layout: post
 title: "Book Review: Deep Work"
 date: 2017-01-09

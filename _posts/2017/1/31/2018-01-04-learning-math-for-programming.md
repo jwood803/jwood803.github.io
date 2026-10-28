@@ -1,4 +1,5 @@
 ﻿---
+affiliate: true
 layout: post
 title: "Learning Math for Programming"
 date: 2018-01-04

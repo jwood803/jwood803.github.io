@@ -1,4 +1,5 @@
 ﻿---
+affiliate: true
 layout: post
 title: "Book Review: Elon Musk Biography"
 date: 2015-08-14

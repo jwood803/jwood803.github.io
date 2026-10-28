@@ -1,4 +1,5 @@
 ﻿---
+affiliate: true
 layout: post
 title: "My Deliberate Practice Plan to Become a Better Programmer"
 date: 2017-01-02

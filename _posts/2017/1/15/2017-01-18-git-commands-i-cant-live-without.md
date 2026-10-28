@@ -1,4 +1,5 @@
 ﻿---
+affiliate: true
 layout: post
 featured: true
 title: "Git Commands I Can't Live Without"

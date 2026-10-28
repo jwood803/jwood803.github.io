@@ -1,4 +1,5 @@
 ﻿---
+affiliate: true
 layout: post
 title: "Book Review: So Good They Can't Ignore You"
 date: 2016-12-29

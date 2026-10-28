@@ -1,4 +1,5 @@
 ﻿---
+affiliate: true
 layout: post
 title: "5 Books To Become a Better Software Developer"
 date: 2018-12-31

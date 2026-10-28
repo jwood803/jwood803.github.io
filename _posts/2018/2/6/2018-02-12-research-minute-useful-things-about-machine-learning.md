@@ -1,4 +1,5 @@
 ﻿---
+affiliate: true
 layout: post
 title: "Research Minute: Useful Things about Machine Learning"
 date: 2018-02-12
