@@ -1,6 +1,7 @@
 ---
 layout: post
 featured: true
+affiliate: true
 image: "/images/parquet-post.jpg"
 title: How to Handle Big Data Files in C# with Parquet.NET
 description: "Read and write Parquet files in C# with Parquet.NET, and see why Parquet beats CSV for large datasets. Includes a complete example."
@@ -12,7 +13,7 @@ tags:
   - "data"
   - "data-science"
 ---
-Throughout this tutorial we will use [Parquet.NET](https://github.com/aloneguid/parquet-dotnet) to help us read and write Parquet files. For reading Parquet files, we will use this dataset on sentence similarity. We will also use this structure when writing Parquet files. The full code can be found [here](https://github.com/jwood803/ParquetNetExample).
+Throughout this tutorial we will use [Parquet.NET](https://github.com/aloneguid/parquet-dotnet) to help us read and write Parquet files. For reading Parquet files, we will use this [dataset on sentence similarity](https://huggingface.co/datasets/sentence-transformers/stsb). We will also use this structure when writing Parquet files. The full code can be found [here](https://github.com/jwood803/ParquetNetExample).
 
 # What is Parquet?
 You're probably already familiar with loading in data for a machine learning project using CSV or plain text files. Parquet is a different way of storing data. Instead of plain text it is a binary file, so you won't be able to see the data if you open it in notepad. But how is this any better than plain text?
@@ -31,6 +32,8 @@ As previously mentioned, not only are Parquet files binary instead of plain text
 However, Parquet files are stored by column instead of by row.
 
 ![Parquet data]({{ '/images/parquet-data.png' | absolute_url }})
+
+If you want to dig into why column-oriented storage is so much faster for analytics queries, Martin Kleppmann and Chris Riccomini's [Designing Data-Intensive Applications](https://www.amazon.com/dp/1098119061?tag=dotnetmeditat-20) covers it in depth.
 
 # How to Write Parquet Files
 
@@ -213,4 +216,4 @@ And that's all there is! The `CsvHelper` package does all of the heavy lifting f
 
 ---
 
-I hope this post helps you understand Parquet files better and gives some insight into how to interact with them with C#. The pros, including smaller file sizes and easier for machines to read, help offset the cons where we can't easily read the files without some processing. The reading and writing of Parquet files, as we showed, could be taken a step further to read and write data in Azure Blob storage. Or, as we'll see in a future post, we can use this to take training data to build an ML.NET model.
+I hope this post helps you understand Parquet files better and gives some insight into how to interact with them with C#. The pros, including smaller file sizes and easier for machines to read, help offset the cons where we can't easily read the files without some processing. The reading and writing of Parquet files, as we showed, could be taken a step further to read and write data in Azure Blob storage. Or, as we'll see in a future post, we can use this to take training data to build an ML.NET model. If you want to see how formats like Parquet fit into the bigger picture of data pipelines, [Fundamentals of Data Engineering](https://www.amazon.com/dp/1098108302?tag=dotnetmeditat-20) by Joe Reis and Matt Housley is a good place to start.
